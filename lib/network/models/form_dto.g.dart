@@ -16,6 +16,7 @@ FormDTO _$FormDTOFromJson(Map<String, dynamic> json) => FormDTO(
           ?.map((e) => FormFieldDTO.fromJson(e as Map<String, dynamic>))
           .toList(),
       FormType: json['FormType'] as String,
+      ProjectListFetchURL: json['ProjectListFetchURL'] as String?,
     );
 
 Map<String, dynamic> _$FormDTOToJson(FormDTO instance) => <String, dynamic>{

@@ -112,7 +112,7 @@ class _$AppDatabase extends AppDatabase {
         await database.execute(
             'CREATE TABLE IF NOT EXISTS `User` (`auUserId` TEXT NOT NULL, `auFirstName` TEXT NOT NULL, `provinceId` TEXT NOT NULL, `districtId` TEXT NOT NULL, `palikaId` TEXT NOT NULL, `provinceDistrictLocallId` TEXT NOT NULL, `endLevelId` TEXT NOT NULL, PRIMARY KEY (`auUserId`))');
         await database.execute(
-            'CREATE TABLE IF NOT EXISTS `Form` (`DataCollectionFormId` TEXT NOT NULL, `DataCollectionFormName` TEXT NOT NULL, `DataCollectionFormSubmissionURL` TEXT NOT NULL, `FormType` TEXT NOT NULL, PRIMARY KEY (`DataCollectionFormId`))');
+            'CREATE TABLE IF NOT EXISTS `Form` (`DataCollectionFormId` TEXT NOT NULL, `DataCollectionFormName` TEXT NOT NULL, `DataCollectionFormSubmissionURL` TEXT NOT NULL, `FormType` TEXT NOT NULL, `ProjectListFetchURL` TEXT, PRIMARY KEY (`DataCollectionFormId`))');
         await database.execute(
             'CREATE TABLE IF NOT EXISTS `Form_Field` (`id` TEXT, `formId` TEXT, `tagName` TEXT, `type` TEXT, `name` TEXT, `fieldValue` TEXT, `label` TEXT, `dataLabel` TEXT, `classValue` TEXT, `lineNumber` INTEGER, `required` INTEGER, `alias` TEXT, `max` TEXT, PRIMARY KEY (`id`))');
         await database.execute(
@@ -278,7 +278,8 @@ class _$FormDao extends FormDao {
                   'DataCollectionFormName': item.DataCollectionFormName,
                   'DataCollectionFormSubmissionURL':
                       item.DataCollectionFormSubmissionURL,
-                  'FormType': item.FormType
+                  'FormType': item.FormType,
+                  'ProjectListFetchURL': item.ProjectListFetchURL
                 });
 
   final sqflite.DatabaseExecutor database;
@@ -297,7 +298,8 @@ class _$FormDao extends FormDao {
             DataCollectionFormName: row['DataCollectionFormName'] as String,
             DataCollectionFormSubmissionURL:
                 row['DataCollectionFormSubmissionURL'] as String,
-            FormType: row['FormType'] as String));
+            FormType: row['FormType'] as String,
+            ProjectListFetchURL: row['ProjectListFetchURL'] as String?));
   }
 
   @override

@@ -22,12 +22,13 @@ class FormEntity extends Equatable {
   final String? ProjectListFetchURL;
 
   factory FormEntity.toEntity(FormModel form) => FormEntity(
-      DataCollectionFormId: form.DataCollectionFormId,
-      DataCollectionFormName: form.DataCollectionFormName,
-      // DataCollectionFormHtlm: form.DataCollectionFormHtlm,
-      DataCollectionFormSubmissionURL: form.DataCollectionFormSubmissionURL,
-      FormType: form.FormType,
-      ProjectListFetchURL: form.ProjectListFetchURL);
+        DataCollectionFormId: form.DataCollectionFormId,
+        DataCollectionFormName: form.DataCollectionFormName,
+        // DataCollectionFormHtlm: form.DataCollectionFormHtlm,
+        DataCollectionFormSubmissionURL: form.DataCollectionFormSubmissionURL,
+        FormType: form.FormType,
+        ProjectListFetchURL: form.ProjectListFetchURL,
+      );
 
   @override
   List<Object?> get props => [

@@ -35,7 +35,8 @@ class FormDTO extends Equatable {
         // DataCollectionFormHtlm,
         DataCollectionFormSubmissionURL,
         formFields,
-        FormType
+        FormType,
+        ProjectListFetchURL,
       ];
 
   factory FormDTO.fromJson(Map<String, dynamic> json) =>
