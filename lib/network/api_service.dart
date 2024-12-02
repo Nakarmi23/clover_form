@@ -5,7 +5,7 @@ import 'package:retrofit/retrofit.dart';
 
 part 'api_service.g.dart';
 
-const String baseurl = 'https://draft.srssolutions.com.np/migrantworker';
+const String baseurl = 'http://nimis.dwri.gov.np/edmsadmin';
 const String version = '/api';
 
 @RestApi(baseUrl: baseurl + version)

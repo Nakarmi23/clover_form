@@ -8,7 +8,7 @@ import 'models/url_entry_dto.dart';
 class DioHelper {
   late Dio dio;
   static late DioHelper _dioHelper;
-  static String baseUrl = "https://draft.srssolutions.com.np/migrantworker/api";
+  static String baseUrl = "http://nimis.dwri.gov.np/edmsadmin/api";
 
   DioHelper() {
     BaseOptions options = BaseOptions(
@@ -155,7 +155,6 @@ class DioHelper {
             ),
           );
         }
-
       } else {
         data.fields.add(
           MapEntry(

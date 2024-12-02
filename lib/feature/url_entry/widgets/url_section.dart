@@ -18,7 +18,8 @@ class _UrlSectionState extends State<UrlSection> {
     return BlocBuilder<UrlEntryCubit, UrlEntryState>(
       builder: (context, state) {
         return TextField(
-          controller: widget.urlController..text = "draft.srssolutions.com.np/migrantworker",
+          controller: widget.urlController
+            ..text = "https://nimis.dwri.gov.np/edmsadmin",
           textAlign: TextAlign.start,
           decoration: InputDecoration(
             border: const OutlineInputBorder(
