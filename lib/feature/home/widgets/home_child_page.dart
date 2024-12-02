@@ -1,4 +1,5 @@
 import 'package:clover_form/feature/home/models/form_model.dart';
+import 'package:clover_form/main.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_slidable/flutter_slidable.dart';
 
@@ -16,7 +17,8 @@ class HomeChildState extends State<HomeChildPage> {
   Widget build(BuildContext context) {
     return ListView.separated(
       itemBuilder: (context, index) {
-        var form = widget.forms.elementAt(index);
+        var form =
+            widget.forms.where((form) => form.FormType != '3').elementAt(index);
 
         return Slidable(
           key: ValueKey(form.DataCollectionFormId),
@@ -67,7 +69,15 @@ class HomeChildState extends State<HomeChildPage> {
                 ),
               ),
               onTap: () {
-                Navigator.pushNamed(context, '/form_detail', arguments: form);
+                if (form.FormType == '1') {
+                  Navigator.pushNamed(context, '/form_detail', arguments: form);
+                } else {
+                  Navigator.pushNamed(
+                    context,
+                    '/form_project_list',
+                    arguments: Test(url: form.ProjectListFetchURL!),
+                  );
+                }
               },
             ),
           ),

@@ -27,4 +27,5 @@ Map<String, dynamic> _$FormDTOToJson(FormDTO instance) => <String, dynamic>{
       'DataCollectionFormSubmissionURL':
           instance.DataCollectionFormSubmissionURL,
       'formFields': instance.formFields,
+      'ProjectListFetchURL': instance.ProjectListFetchURL,
     };
