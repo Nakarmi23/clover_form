@@ -10,11 +10,13 @@ class FormModel extends Equatable {
     this.DataCollectionFormFields,
     // required this.DataCollectionFormHtlm,
     required this.DataCollectionFormSubmissionURL,
+    required this.FormType,
   });
 
   final String DataCollectionFormId;
   final String DataCollectionFormName;
   List<FormModelField>? DataCollectionFormFields;
+  final String FormType;
 
   // final String DataCollectionFormHtlm;
 
@@ -27,12 +29,14 @@ class FormModel extends Equatable {
         DataCollectionFormFields: formField,
         // DataCollectionFormHtlm: form.DataCollectionFormHtlm,
         DataCollectionFormSubmissionURL: form.DataCollectionFormSubmissionURL,
+        FormType: form.FormType,
       );
 
   factory FormModel.fromEntity(FormEntity entity) => FormModel(
         DataCollectionFormId: entity.DataCollectionFormId,
         DataCollectionFormName: entity.DataCollectionFormName,
         DataCollectionFormSubmissionURL: entity.DataCollectionFormSubmissionURL,
+        FormType: entity.FormType,
       );
 
   @override

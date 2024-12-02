@@ -15,12 +15,14 @@ FormDTO _$FormDTOFromJson(Map<String, dynamic> json) => FormDTO(
       formFields: (json['formFields'] as List<dynamic>?)
           ?.map((e) => FormFieldDTO.fromJson(e as Map<String, dynamic>))
           .toList(),
+      FormType: json['FormType'] as String,
     );
 
 Map<String, dynamic> _$FormDTOToJson(FormDTO instance) => <String, dynamic>{
       'DataCollectionFormId': instance.DataCollectionFormId,
       'DataCollectionFormName': instance.DataCollectionFormName,
       'DataCollectionFormFields': instance.DataCollectionFormFields,
+      'FormType': instance.FormType,
       'DataCollectionFormSubmissionURL':
           instance.DataCollectionFormSubmissionURL,
       'formFields': instance.formFields,

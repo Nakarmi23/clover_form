@@ -7,18 +7,20 @@ part 'form_dto.g.dart';
 
 @JsonSerializable()
 class FormDTO extends Equatable {
-   FormDTO({
+  FormDTO({
     required this.DataCollectionFormId,
     required this.DataCollectionFormName,
     required this.DataCollectionFormFields,
     // required this.DataCollectionFormHtlm,
     required this.DataCollectionFormSubmissionURL,
     this.formFields,
+    required this.FormType,
   });
 
   final String DataCollectionFormId;
   final String DataCollectionFormName;
   final String DataCollectionFormFields;
+  final String FormType;
   // final String DataCollectionFormHtlm;
   final String DataCollectionFormSubmissionURL;
   List<FormFieldDTO>? formFields;
@@ -31,6 +33,7 @@ class FormDTO extends Equatable {
         // DataCollectionFormHtlm,
         DataCollectionFormSubmissionURL,
         formFields,
+        FormType
       ];
 
   factory FormDTO.fromJson(Map<String, dynamic> json) =>

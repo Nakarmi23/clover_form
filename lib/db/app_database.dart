@@ -47,7 +47,7 @@ abstract class AppDatabase extends FloorDatabase {
   static final Migration migration1to2 =
       Migration(1, 2, (sqflite.Database database) async {
     await database.execute(
-        'CREATE TABLE IF NOT EXISTS Saved_Form (id INTEGER PRIMARY KEY AUTOINCREMENT, DataCollectionFormId TEXT, DataCollectionFormName TEXT, date TEXT)');
+        'CREATE TABLE IF NOT EXISTS Saved_Form (id INTEGER PRIMARY KEY AUTOINCREMENT, DataCollectionFormId TEXT, DataCollectionFormName TEXT, date TEXT, INT FormType)');
     await database.execute(
         'CREATE TABLE IF NOT EXISTS Saved_Form_Field (fieldId INTEGER PRIMARY KEY AUTOINCREMENT, savedFormId INTEGER, id TEXT, formValue TEXT)');
   });
@@ -64,8 +64,8 @@ abstract class AppDatabase extends FloorDatabase {
   });
 
   static final Migration migration4to5 = Migration(4, 5, (database) async {
-    await database
-        .execute('ALTER TABLE Saved_Form_Field ADD COLUMN label TEXT NOT NULL DEFAULT ""');
+    await database.execute(
+        'ALTER TABLE Saved_Form_Field ADD COLUMN label TEXT NOT NULL DEFAULT ""');
   });
 }
 
