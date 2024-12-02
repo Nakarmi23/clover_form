@@ -2,6 +2,8 @@ import 'package:bloc/bloc.dart';
 import 'package:clover_form/clover_bloc_observer.dart';
 import 'package:clover_form/feature/form_detail/view/form_detail_page.dart';
 import 'package:clover_form/feature/home/models/form_model.dart';
+import 'package:clover_form/feature/home/widgets/form_project.dart';
+import 'package:clover_form/feature/home/widgets/form_project_list.dart';
 import 'package:clover_form/feature/loading/view/loading_page.dart';
 import 'package:clover_form/feature/login/view/login_page.dart';
 import 'package:clover_form/feature/saved_form/models/SavedFormModel.dart';
@@ -14,6 +16,11 @@ import 'feature/confirmation/view/confirmation_page.dart';
 import 'feature/home/view/home_page.dart';
 import 'feature/saved_form/view/saved_form_page.dart';
 import 'feature/url_entry/view/url_entry_page.dart';
+
+class Test {
+  Test({required this.url});
+  String url;
+}
 
 void main() {
   Bloc.observer = const CloverBlocObserver();
@@ -90,7 +97,29 @@ class CloverApp extends StatelessWidget {
               );
             },
           );
+        } else if (settings.name == '/form_project_list') {
+          final from = settings.arguments;
+          late String url;
+
+          if (from is Test) {
+            url = from.url;
+          }
+
+          return MaterialPageRoute(
+            builder: (context) => FormProjectList(
+              listURL: url,
+            ),
+          );
+        } else if (settings.name == '/form_project') {
+          final from = settings.arguments;
+
+          return MaterialPageRoute(
+            builder: (context) => FormProject(
+              data: from as dynamic,
+            ),
+          );
         }
+        return null;
       },
     );
   }

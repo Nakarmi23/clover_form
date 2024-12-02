@@ -3,14 +3,18 @@ import 'package:flutter/material.dart';
 class FormTextField extends StatelessWidget {
   const FormTextField({
     super.key,
-    required this.controller,
+    this.controller,
     required this.hint,
     required this.borderColor,
+    this.readOnly = false,
+    this.initialValue,
   });
 
-  final TextEditingController controller;
+  final TextEditingController? controller;
+  final String? initialValue;
   final String hint;
   final Color borderColor;
+  final bool readOnly;
 
   @override
   Widget build(BuildContext context) {
@@ -19,17 +23,16 @@ class FormTextField extends StatelessWidget {
       children: [
         Text(
           hint,
-          style:  TextStyle(
-            fontWeight: FontWeight.bold,
-            fontSize: 14,
-            color: borderColor
-          ),
+          style: TextStyle(
+              fontWeight: FontWeight.bold, fontSize: 14, color: borderColor),
         ),
         const SizedBox(height: 8),
-        TextField(
+        TextFormField(
+          initialValue: initialValue,
           controller: controller,
           textAlign: TextAlign.start,
-          decoration:  InputDecoration(
+          readOnly: readOnly,
+          decoration: InputDecoration(
             border: OutlineInputBorder(
               borderRadius: const BorderRadius.all(
                 Radius.circular(5),
