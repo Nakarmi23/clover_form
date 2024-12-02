@@ -14,7 +14,7 @@ class _ApiService implements ApiService {
     this.baseUrl,
     this.errorLogger,
   }) {
-    baseUrl ??= 'https://draft.srssolutions.com.np/migrantworker/api';
+    baseUrl ??= 'http://nimis.dwri.gov.np/edmsadmin/api';
   }
 
   final Dio _dio;
