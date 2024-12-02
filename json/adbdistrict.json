@@ -1,0 +1,387 @@
+[
+    {
+        "DistrictId": "1",
+        "DistrictName": "TAPLEJUNG",
+        "ProvinceId": "1"
+    },
+    {
+        "DistrictId": "2",
+        "DistrictName": "PANCHTHAR",
+        "ProvinceId": "1"
+    },
+    {
+        "DistrictId": "3",
+        "DistrictName": "ILAM",
+        "ProvinceId": "1"
+    },
+    {
+        "DistrictId": "4",
+        "DistrictName": "JHAPA",
+        "ProvinceId": "1"
+    },
+    {
+        "DistrictId": "5",
+        "DistrictName": "MORANG",
+        "ProvinceId": "1"
+    },
+    {
+        "DistrictId": "6",
+        "DistrictName": "SUNSARI",
+        "ProvinceId": "1"
+    },
+    {
+        "DistrictId": "7",
+        "DistrictName": "DHANKUTA",
+        "ProvinceId": "1"
+    },
+    {
+        "DistrictId": "8",
+        "DistrictName": "TERHATHUM",
+        "ProvinceId": "1"
+    },
+    {
+        "DistrictId": "9",
+        "DistrictName": "SANKHUWASABHA",
+        "ProvinceId": "1"
+    },
+    {
+        "DistrictId": "10",
+        "DistrictName": "BHOJPUR",
+        "ProvinceId": "1"
+    },
+    {
+        "DistrictId": "11",
+        "DistrictName": "SOLUKHUMBU",
+        "ProvinceId": "1"
+    },
+    {
+        "DistrictId": "12",
+        "DistrictName": "KHOTANG",
+        "ProvinceId": "1"
+    },
+    {
+        "DistrictId": "13",
+        "DistrictName": "OKHALDHUNGA",
+        "ProvinceId": "1"
+    },
+    {
+        "DistrictId": "14",
+        "DistrictName": "UDAYAPUR",
+        "ProvinceId": "1"
+    },
+    {
+        "DistrictId": "15",
+        "DistrictName": "SAPTARI",
+        "ProvinceId": "2"
+    },
+    {
+        "DistrictId": "16",
+        "DistrictName": "SIRAHA",
+        "ProvinceId": "2"
+    },
+    {
+        "DistrictId": "17",
+        "DistrictName": "DHANUSHA",
+        "ProvinceId": "2"
+    },
+    {
+        "DistrictId": "18",
+        "DistrictName": "MAHOTTARI",
+        "ProvinceId": "2"
+    },
+    {
+        "DistrictId": "19",
+        "DistrictName": "SARLAHI",
+        "ProvinceId": "2"
+    },
+    {
+        "DistrictId": "20",
+        "DistrictName": "SINDHULI",
+        "ProvinceId": "3"
+    },
+    {
+        "DistrictId": "21",
+        "DistrictName": "RAMECHHAP",
+        "ProvinceId": "3"
+    },
+    {
+        "DistrictId": "22",
+        "DistrictName": "DOLAKHA",
+        "ProvinceId": "3"
+    },
+    {
+        "DistrictId": "23",
+        "DistrictName": "SINDHUPALCHOK",
+        "ProvinceId": "3"
+    },
+    {
+        "DistrictId": "24",
+        "DistrictName": "KABHREPALANCHOK",
+        "ProvinceId": "3"
+    },
+    {
+        "DistrictId": "25",
+        "DistrictName": "LALITPUR",
+        "ProvinceId": "3"
+    },
+    {
+        "DistrictId": "26",
+        "DistrictName": "BHAKTAPUR",
+        "ProvinceId": "3"
+    },
+    {
+        "DistrictId": "27",
+        "DistrictName": "KATHMANDU",
+        "ProvinceId": "3"
+    },
+    {
+        "DistrictId": "28",
+        "DistrictName": "NUWAKOT",
+        "ProvinceId": "3"
+    },
+    {
+        "DistrictId": "29",
+        "DistrictName": "RASUWA",
+        "ProvinceId": "3"
+    },
+    {
+        "DistrictId": "30",
+        "DistrictName": "DHADING",
+        "ProvinceId": "3"
+    },
+    {
+        "DistrictId": "31",
+        "DistrictName": "MAKAWANPUR",
+        "ProvinceId": "3"
+    },
+    {
+        "DistrictId": "32",
+        "DistrictName": "RAUTAHAT",
+        "ProvinceId": "2"
+    },
+    {
+        "DistrictId": "33",
+        "DistrictName": "BARA",
+        "ProvinceId": "2"
+    },
+    {
+        "DistrictId": "34",
+        "DistrictName": "PARSA",
+        "ProvinceId": "2"
+    },
+    {
+        "DistrictId": "35",
+        "DistrictName": "CHITAWAN",
+        "ProvinceId": "3"
+    },
+    {
+        "DistrictId": "36",
+        "DistrictName": "GORKHA",
+        "ProvinceId": "4"
+    },
+    {
+        "DistrictId": "37",
+        "DistrictName": "LAMJUNG",
+        "ProvinceId": "4"
+    },
+    {
+        "DistrictId": "38",
+        "DistrictName": "TANAHU",
+        "ProvinceId": "4"
+    },
+    {
+        "DistrictId": "39",
+        "DistrictName": "SYANGJA",
+        "ProvinceId": "4"
+    },
+    {
+        "DistrictId": "40",
+        "DistrictName": "KASKI",
+        "ProvinceId": "4"
+    },
+    {
+        "DistrictId": "41",
+        "DistrictName": "MANANG",
+        "ProvinceId": "4"
+    },
+    {
+        "DistrictId": "42",
+        "DistrictName": "MUSTANG",
+        "ProvinceId": "4"
+    },
+    {
+        "DistrictId": "43",
+        "DistrictName": "MYAGDI",
+        "ProvinceId": "4"
+    },
+    {
+        "DistrictId": "44",
+        "DistrictName": "PARBAT",
+        "ProvinceId": "4"
+    },
+    {
+        "DistrictId": "45",
+        "DistrictName": "BAGLUNG",
+        "ProvinceId": "4"
+    },
+    {
+        "DistrictId": "46",
+        "DistrictName": "GULMI",
+        "ProvinceId": "5"
+    },
+    {
+        "DistrictId": "47",
+        "DistrictName": "PALPA",
+        "ProvinceId": "5"
+    },
+    {
+        "DistrictId": "48",
+        "DistrictName": "PARASI",
+        "ProvinceId": "4"
+    },
+    {
+        "DistrictId": "49",
+        "DistrictName": "RUPANDEHI",
+        "ProvinceId": "5"
+    },
+    {
+        "DistrictId": "50",
+        "DistrictName": "KAPILBASTU",
+        "ProvinceId": "5"
+    },
+    {
+        "DistrictId": "51",
+        "DistrictName": "ARGHAKHANCHI",
+        "ProvinceId": "5"
+    },
+    {
+        "DistrictId": "52",
+        "DistrictName": "PYUTHAN",
+        "ProvinceId": "5"
+    },
+    {
+        "DistrictId": "53",
+        "DistrictName": "ROLPA",
+        "ProvinceId": "5"
+    },
+    {
+        "DistrictId": "54",
+        "DistrictName": "RUKUM",
+        "ProvinceId": "6"
+    },
+    {
+        "DistrictId": "55",
+        "DistrictName": "SALYAN",
+        "ProvinceId": "6"
+    },
+    {
+        "DistrictId": "56",
+        "DistrictName": "DANG",
+        "ProvinceId": "5"
+    },
+    {
+        "DistrictId": "57",
+        "DistrictName": "BANKE",
+        "ProvinceId": "5"
+    },
+    {
+        "DistrictId": "58",
+        "DistrictName": "BARDIYA",
+        "ProvinceId": "5"
+    },
+    {
+        "DistrictId": "59",
+        "DistrictName": "SURKHET",
+        "ProvinceId": "6"
+    },
+    {
+        "DistrictId": "60",
+        "DistrictName": "DAILEKH",
+        "ProvinceId": "6"
+    },
+    {
+        "DistrictId": "61",
+        "DistrictName": "JAJARKOT",
+        "ProvinceId": "6"
+    },
+    {
+        "DistrictId": "62",
+        "DistrictName": "DOLPA",
+        "ProvinceId": "6"
+    },
+    {
+        "DistrictId": "63",
+        "DistrictName": "JUMLA",
+        "ProvinceId": "6"
+    },
+    {
+        "DistrictId": "64",
+        "DistrictName": "KALIKOT",
+        "ProvinceId": "6"
+    },
+    {
+        "DistrictId": "65",
+        "DistrictName": "MUGU",
+        "ProvinceId": "6"
+    },
+    {
+        "DistrictId": "66",
+        "DistrictName": "HUMLA",
+        "ProvinceId": "6"
+    },
+    {
+        "DistrictId": "67",
+        "DistrictName": "BAJURA",
+        "ProvinceId": "7"
+    },
+    {
+        "DistrictId": "68",
+        "DistrictName": "BAJHANG",
+        "ProvinceId": "7"
+    },
+    {
+        "DistrictId": "69",
+        "DistrictName": "ACHHAM",
+        "ProvinceId": "7"
+    },
+    {
+        "DistrictId": "70",
+        "DistrictName": "DOTI",
+        "ProvinceId": "7"
+    },
+    {
+        "DistrictId": "71",
+        "DistrictName": "KAILALI",
+        "ProvinceId": "7"
+    },
+    {
+        "DistrictId": "72",
+        "DistrictName": "KANCHANPUR",
+        "ProvinceId": "7"
+    },
+    {
+        "DistrictId": "73",
+        "DistrictName": "DADELDHURA",
+        "ProvinceId": "7"
+    },
+    {
+        "DistrictId": "74",
+        "DistrictName": "BAITADI",
+        "ProvinceId": "7"
+    },
+    {
+        "DistrictId": "75",
+        "DistrictName": "DARCHULA",
+        "ProvinceId": "7"
+    },
+    {
+        "DistrictId": "76",
+        "DistrictName": "NAWALPUR",
+        "ProvinceId": "5"
+    },
+    {
+        "DistrictId": "77",
+        "DistrictName": "RUKUM EAST",
+        "ProvinceId": "5"
+    }
+]

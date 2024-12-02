@@ -1,0 +1,4646 @@
+[
+    {
+        "NapaGapaId": "1",
+        "NapaGapaNE": "आठराई त्रिवेणी गाउँपालिका",
+        "NapaGapaEN": "Aathrai Tribeni",
+        "DistrictId": "1"
+    },
+    {
+        "NapaGapaId": "2",
+        "NapaGapaNE": "मैवाखोला गाउँपालिका",
+        "NapaGapaEN": "Maiwakhola",
+        "DistrictId": "1"
+    },
+    {
+        "NapaGapaId": "3",
+        "NapaGapaNE": "मेरिङदेन गाउँपालिका",
+        "NapaGapaEN": "Meringden",
+        "DistrictId": "1"
+    },
+    {
+        "NapaGapaId": "4",
+        "NapaGapaNE": "मिक्वाखोला गाउँपालिका",
+        "NapaGapaEN": "Mikwakhola",
+        "DistrictId": "1"
+    },
+    {
+        "NapaGapaId": "5",
+        "NapaGapaNE": "फक्ताङलुङ गाउँपालिका",
+        "NapaGapaEN": "Phaktanglung",
+        "DistrictId": "1"
+    },
+    {
+        "NapaGapaId": "6",
+        "NapaGapaNE": "फुङलिङ नगरपालिका",
+        "NapaGapaEN": "Phungling",
+        "DistrictId": "1"
+    },
+    {
+        "NapaGapaId": "7",
+        "NapaGapaNE": "सिदिङ्वा गाउँपालिका",
+        "NapaGapaEN": "Sidingba",
+        "DistrictId": "1"
+    },
+    {
+        "NapaGapaId": "8",
+        "NapaGapaNE": "सिरीजङ्घा गाउँपालिका",
+        "NapaGapaEN": "Sirijangha",
+        "DistrictId": "1"
+    },
+    {
+        "NapaGapaId": "9",
+        "NapaGapaNE": "याङवरक गाउँपालिका",
+        "NapaGapaEN": "Yangwarak",
+        "DistrictId": "1"
+    },
+    {
+        "NapaGapaId": "10",
+        "NapaGapaNE": "फालेलुङ गाउँपालिका",
+        "NapaGapaEN": "Falelung",
+        "DistrictId": "2"
+    },
+    {
+        "NapaGapaId": "11",
+        "NapaGapaNE": "फाल्गुनन्द गाउँपालिका",
+        "NapaGapaEN": "Falgunanda",
+        "DistrictId": "2"
+    },
+    {
+        "NapaGapaId": "12",
+        "NapaGapaNE": "हिलिहाङ गाउँपालिका",
+        "NapaGapaEN": "Hilihang",
+        "DistrictId": "2"
+    },
+    {
+        "NapaGapaId": "13",
+        "NapaGapaNE": "कुम्मायक गाउँपालिका",
+        "NapaGapaEN": "Kummayak",
+        "DistrictId": "2"
+    },
+    {
+        "NapaGapaId": "14",
+        "NapaGapaNE": "मिक्लाजुङ गाउँपालिका",
+        "NapaGapaEN": "Miklajung",
+        "DistrictId": "2"
+    },
+    {
+        "NapaGapaId": "15",
+        "NapaGapaNE": "फिदिम नगरपालिका",
+        "NapaGapaEN": "Phidim",
+        "DistrictId": "2"
+    },
+    {
+        "NapaGapaId": "16",
+        "NapaGapaNE": "तुम्वेवा गाउँपालिका",
+        "NapaGapaEN": "Tumbewa",
+        "DistrictId": "2"
+    },
+    {
+        "NapaGapaId": "17",
+        "NapaGapaNE": "याङवरक गाउँपालिका",
+        "NapaGapaEN": "Yangwarak",
+        "DistrictId": "2"
+    },
+    {
+        "NapaGapaId": "18",
+        "NapaGapaNE": "चुलाचुली गाउँपालिका",
+        "NapaGapaEN": "Chulachuli",
+        "DistrictId": "3"
+    },
+    {
+        "NapaGapaId": "19",
+        "NapaGapaNE": "देउमाई नगरपालिका",
+        "NapaGapaEN": "Deumai",
+        "DistrictId": "3"
+    },
+    {
+        "NapaGapaId": "20",
+        "NapaGapaNE": "फाकफोकथुम गाउँपालिका",
+        "NapaGapaEN": "Fakphokthum",
+        "DistrictId": "3"
+    },
+    {
+        "NapaGapaId": "21",
+        "NapaGapaNE": "इलाम नगरपालिका",
+        "NapaGapaEN": "Illam",
+        "DistrictId": "3"
+    },
+    {
+        "NapaGapaId": "22",
+        "NapaGapaNE": "माई नगरपालिका",
+        "NapaGapaEN": "Mai",
+        "DistrictId": "3"
+    },
+    {
+        "NapaGapaId": "23",
+        "NapaGapaNE": "माईजोगमाई गाउँपालिका",
+        "NapaGapaEN": "Maijogmai",
+        "DistrictId": "3"
+    },
+    {
+        "NapaGapaId": "24",
+        "NapaGapaNE": "माङसेबुङ गाउँपालिका",
+        "NapaGapaEN": "Mangsebung",
+        "DistrictId": "3"
+    },
+    {
+        "NapaGapaId": "25",
+        "NapaGapaNE": "रोङ गाउँपालिका",
+        "NapaGapaEN": "Rong",
+        "DistrictId": "3"
+    },
+    {
+        "NapaGapaId": "26",
+        "NapaGapaNE": "सन्दकपुर गाउँपालिका",
+        "NapaGapaEN": "Sandakpur",
+        "DistrictId": "3"
+    },
+    {
+        "NapaGapaId": "27",
+        "NapaGapaNE": "सूर्योदय नगरपालिका",
+        "NapaGapaEN": "Suryodaya",
+        "DistrictId": "3"
+    },
+    {
+        "NapaGapaId": "28",
+        "NapaGapaNE": "अर्जुनधारा नगरपालिका",
+        "NapaGapaEN": "Arjundhara",
+        "DistrictId": "4"
+    },
+    {
+        "NapaGapaId": "29",
+        "NapaGapaNE": "बाह्रदशी गाउँपालिका",
+        "NapaGapaEN": "Barhadashi",
+        "DistrictId": "4"
+    },
+    {
+        "NapaGapaId": "30",
+        "NapaGapaNE": "भद्रपुर नगरपालिका",
+        "NapaGapaEN": "Bhadrapur",
+        "DistrictId": "4"
+    },
+    {
+        "NapaGapaId": "31",
+        "NapaGapaNE": "विर्तामोड नगरपालिका",
+        "NapaGapaEN": "Birtamod",
+        "DistrictId": "4"
+    },
+    {
+        "NapaGapaId": "32",
+        "NapaGapaNE": "बुद्धशान्ति गाउँपालिका",
+        "NapaGapaEN": "Buddhashanti",
+        "DistrictId": "4"
+    },
+    {
+        "NapaGapaId": "33",
+        "NapaGapaNE": "दमक नगरपालिका",
+        "NapaGapaEN": "Damak",
+        "DistrictId": "4"
+    },
+    {
+        "NapaGapaId": "34",
+        "NapaGapaNE": "गौरादह नगरपालिका",
+        "NapaGapaEN": "Gauradhaha",
+        "DistrictId": "4"
+    },
+    {
+        "NapaGapaId": "35",
+        "NapaGapaNE": "गौरीगंज गाउँपालिका",
+        "NapaGapaEN": "Gauriganj",
+        "DistrictId": "4"
+    },
+    {
+        "NapaGapaId": "36",
+        "NapaGapaNE": "हल्दीवारी गाउँपालिका",
+        "NapaGapaEN": "Haldibari",
+        "DistrictId": "4"
+    },
+    {
+        "NapaGapaId": "37",
+        "NapaGapaNE": "झापा गाउँपालिका",
+        "NapaGapaEN": "Jhapa",
+        "DistrictId": "4"
+    },
+    {
+        "NapaGapaId": "38",
+        "NapaGapaNE": "कचनकवल गाउँपालिका",
+        "NapaGapaEN": "Kachankawal",
+        "DistrictId": "4"
+    },
+    {
+        "NapaGapaId": "39",
+        "NapaGapaNE": "कमल गाउँपालिका",
+        "NapaGapaEN": "Kamal",
+        "DistrictId": "4"
+    },
+    {
+        "NapaGapaId": "40",
+        "NapaGapaNE": "कन्काई नगरपालिका",
+        "NapaGapaEN": "Kankai",
+        "DistrictId": "4"
+    },
+    {
+        "NapaGapaId": "41",
+        "NapaGapaNE": "मेची नगर नगरपालिका",
+        "NapaGapaEN": "Mechinagar",
+        "DistrictId": "4"
+    },
+    {
+        "NapaGapaId": "42",
+        "NapaGapaNE": "शिवसताक्षि नगरपालिका",
+        "NapaGapaEN": "Shivasataxi",
+        "DistrictId": "4"
+    },
+    {
+        "NapaGapaId": "43",
+        "NapaGapaNE": "बेलवारी नगरपालिका",
+        "NapaGapaEN": "Belbari",
+        "DistrictId": "5"
+    },
+    {
+        "NapaGapaId": "44",
+        "NapaGapaNE": "विराटनगर महानगरपालिका",
+        "NapaGapaEN": "Biratnagar",
+        "DistrictId": "5"
+    },
+    {
+        "NapaGapaId": "45",
+        "NapaGapaNE": "बुढीगंगा गाउँपालिका",
+        "NapaGapaEN": "Budhiganga",
+        "DistrictId": "5"
+    },
+    {
+        "NapaGapaId": "46",
+        "NapaGapaNE": "धनपालथान गाउँपालिका",
+        "NapaGapaEN": "Dhanpalthan",
+        "DistrictId": "5"
+    },
+    {
+        "NapaGapaId": "47",
+        "NapaGapaNE": "ग्रामथान गाउँपालिका",
+        "NapaGapaEN": "Gramthan",
+        "DistrictId": "5"
+    },
+    {
+        "NapaGapaId": "48",
+        "NapaGapaNE": "जहदा गाउँपालिका",
+        "NapaGapaEN": "Jahada",
+        "DistrictId": "5"
+    },
+    {
+        "NapaGapaId": "49",
+        "NapaGapaNE": "कानेपोखरी गाउँपालिका",
+        "NapaGapaEN": "Kanepokhari",
+        "DistrictId": "5"
+    },
+    {
+        "NapaGapaId": "50",
+        "NapaGapaNE": "कटहरी गाउँपालिका",
+        "NapaGapaEN": "Katahari",
+        "DistrictId": "5"
+    },
+    {
+        "NapaGapaId": "51",
+        "NapaGapaNE": "केरावारी गाउँपालिका",
+        "NapaGapaEN": "Kerabari",
+        "DistrictId": "5"
+    },
+    {
+        "NapaGapaId": "52",
+        "NapaGapaNE": "लेटाङ नगरपालिका",
+        "NapaGapaEN": "Letang",
+        "DistrictId": "5"
+    },
+    {
+        "NapaGapaId": "53",
+        "NapaGapaNE": "मिक्लाजुङ गाउँपालिका",
+        "NapaGapaEN": "Miklajung",
+        "DistrictId": "5"
+    },
+    {
+        "NapaGapaId": "54",
+        "NapaGapaNE": "पथरी शनिश्चरे नगरपालिका",
+        "NapaGapaEN": "Patahrishanishchare",
+        "DistrictId": "5"
+    },
+    {
+        "NapaGapaId": "55",
+        "NapaGapaNE": "रंगेली नगरपालिका",
+        "NapaGapaEN": "Rangeli",
+        "DistrictId": "5"
+    },
+    {
+        "NapaGapaId": "56",
+        "NapaGapaNE": "रतुवामाई नगरपालिका",
+        "NapaGapaEN": "Ratuwamai",
+        "DistrictId": "5"
+    },
+    {
+        "NapaGapaId": "57",
+        "NapaGapaNE": "सुन्दरहरैंचा नगरपालिका",
+        "NapaGapaEN": "Sundarharaicha",
+        "DistrictId": "5"
+    },
+    {
+        "NapaGapaId": "58",
+        "NapaGapaNE": "सुनवर्षी नगरपालिका",
+        "NapaGapaEN": "Sunwarshi",
+        "DistrictId": "5"
+    },
+    {
+        "NapaGapaId": "59",
+        "NapaGapaNE": "उर्लावारी नगरपालिका",
+        "NapaGapaEN": "Uralabari",
+        "DistrictId": "5"
+    },
+    {
+        "NapaGapaId": "60",
+        "NapaGapaNE": "बराह नगरपालिका",
+        "NapaGapaEN": "Barah",
+        "DistrictId": "6"
+    },
+    {
+        "NapaGapaId": "61",
+        "NapaGapaNE": "बर्जु गाउँपालिका",
+        "NapaGapaEN": "Barju",
+        "DistrictId": "6"
+    },
+    {
+        "NapaGapaId": "62",
+        "NapaGapaNE": "भोक्राहा गाउँपालिका",
+        "NapaGapaEN": "Bhokraha",
+        "DistrictId": "6"
+    },
+    {
+        "NapaGapaId": "63",
+        "NapaGapaNE": "देवानगन्ज गाउँपालिका",
+        "NapaGapaEN": "Dewanganj",
+        "DistrictId": "6"
+    },
+    {
+        "NapaGapaId": "64",
+        "NapaGapaNE": "धरान उपमहानगरपालिका",
+        "NapaGapaEN": "Dharan",
+        "DistrictId": "6"
+    },
+    {
+        "NapaGapaId": "65",
+        "NapaGapaNE": "दुहवी नगरपालिका",
+        "NapaGapaEN": "Duhabi",
+        "DistrictId": "6"
+    },
+    {
+        "NapaGapaId": "66",
+        "NapaGapaNE": "गढी गाउँपालिका",
+        "NapaGapaEN": "Gadhi",
+        "DistrictId": "6"
+    },
+    {
+        "NapaGapaId": "67",
+        "NapaGapaNE": "हरिनगरा गाउँपालिका",
+        "NapaGapaEN": "Harinagara",
+        "DistrictId": "6"
+    },
+    {
+        "NapaGapaId": "68",
+        "NapaGapaNE": "ईनरुवा नगरपालिका",
+        "NapaGapaEN": "Inaruwa",
+        "DistrictId": "6"
+    },
+    {
+        "NapaGapaId": "69",
+        "NapaGapaNE": "ईटहरी उपमहानगरपालिका",
+        "NapaGapaEN": "Itahari",
+        "DistrictId": "6"
+    },
+    {
+        "NapaGapaId": "70",
+        "NapaGapaNE": "कोशी गाउँपालिका",
+        "NapaGapaEN": "Koshi",
+        "DistrictId": "6"
+    },
+    {
+        "NapaGapaId": "71",
+        "NapaGapaNE": "रामधुनी नगरपालिका",
+        "NapaGapaEN": "Ramdhuni",
+        "DistrictId": "6"
+    },
+    {
+        "NapaGapaId": "72",
+        "NapaGapaNE": null,
+        "NapaGapaEN": "Koshi Tappu Wildlife Reserve",
+        "DistrictId": "6"
+    },
+    {
+        "NapaGapaId": "73",
+        "NapaGapaNE": "चौविसे गाउँपालिका",
+        "NapaGapaEN": "Chaubise",
+        "DistrictId": "7"
+    },
+    {
+        "NapaGapaId": "74",
+        "NapaGapaNE": "छथर जोरपाटी गाउँपालिका",
+        "NapaGapaEN": "Chhathar Jorpati",
+        "DistrictId": "7"
+    },
+    {
+        "NapaGapaId": "75",
+        "NapaGapaNE": "धनकुटा नगरपालिका",
+        "NapaGapaEN": "Dhankuta",
+        "DistrictId": "7"
+    },
+    {
+        "NapaGapaId": "76",
+        "NapaGapaNE": "खाल्सा छिन्ताङ सहीदभूमि गाउँपालिका",
+        "NapaGapaEN": "Khalsa Chhintang Shahidbhumi",
+        "DistrictId": "7"
+    },
+    {
+        "NapaGapaId": "77",
+        "NapaGapaNE": "महालक्ष्मी नगरपालिका",
+        "NapaGapaEN": "Mahalaxmi",
+        "DistrictId": "7"
+    },
+    {
+        "NapaGapaId": "78",
+        "NapaGapaNE": "पाख्रिवास नगरपालिका",
+        "NapaGapaEN": "Pakhribas",
+        "DistrictId": "7"
+    },
+    {
+        "NapaGapaId": "79",
+        "NapaGapaNE": "सागुरीगढी गाउँपालिका",
+        "NapaGapaEN": "Sangurigadhi",
+        "DistrictId": "7"
+    },
+    {
+        "NapaGapaId": "80",
+        "NapaGapaNE": "आठराई  गाउँपालिका",
+        "NapaGapaEN": "Aathrai",
+        "DistrictId": "8"
+    },
+    {
+        "NapaGapaId": "81",
+        "NapaGapaNE": "छथर गाउँपालिका",
+        "NapaGapaEN": "Chhathar",
+        "DistrictId": "8"
+    },
+    {
+        "NapaGapaId": "82",
+        "NapaGapaNE": "लालिगुँरास नगरपालिका",
+        "NapaGapaEN": "Laligurans",
+        "DistrictId": "8"
+    },
+    {
+        "NapaGapaId": "83",
+        "NapaGapaNE": "मेन्छयायेम गाउँपालिका",
+        "NapaGapaEN": "Menchayam",
+        "DistrictId": "8"
+    },
+    {
+        "NapaGapaId": "84",
+        "NapaGapaNE": "म्याङलुङ नगरपालिका",
+        "NapaGapaEN": "Myanglung",
+        "DistrictId": "8"
+    },
+    {
+        "NapaGapaId": "85",
+        "NapaGapaNE": "फेदाप  गाउँपालिका",
+        "NapaGapaEN": "Phedap",
+        "DistrictId": "8"
+    },
+    {
+        "NapaGapaId": "86",
+        "NapaGapaNE": "भोटखोला गाउँपालिका",
+        "NapaGapaEN": "Bhotkhola",
+        "DistrictId": "9"
+    },
+    {
+        "NapaGapaId": "87",
+        "NapaGapaNE": "चैनपुर नगरपालिका",
+        "NapaGapaEN": "Chainpur",
+        "DistrictId": "9"
+    },
+    {
+        "NapaGapaId": "88",
+        "NapaGapaNE": "चिचिला गाउँपालिका",
+        "NapaGapaEN": "Chichila",
+        "DistrictId": "9"
+    },
+    {
+        "NapaGapaId": "89",
+        "NapaGapaNE": "धर्मदेवी नगरपालिका",
+        "NapaGapaEN": "Dharmadevi",
+        "DistrictId": "9"
+    },
+    {
+        "NapaGapaId": "90",
+        "NapaGapaNE": "खाँदवारी नगरपालिका",
+        "NapaGapaEN": "Khandbari",
+        "DistrictId": "9"
+    },
+    {
+        "NapaGapaId": "91",
+        "NapaGapaNE": "मादी नगरपालिका",
+        "NapaGapaEN": "Madi",
+        "DistrictId": "9"
+    },
+    {
+        "NapaGapaId": "92",
+        "NapaGapaNE": "मकालु गाउँपालिका",
+        "NapaGapaEN": "Makalu",
+        "DistrictId": "9"
+    },
+    {
+        "NapaGapaId": "93",
+        "NapaGapaNE": "पाँचखपन नगरपालिका",
+        "NapaGapaEN": "Panchakhapan",
+        "DistrictId": "9"
+    },
+    {
+        "NapaGapaId": "94",
+        "NapaGapaNE": "सभापोखरी गाउँपालिका",
+        "NapaGapaEN": "Sabhapokhari",
+        "DistrictId": "9"
+    },
+    {
+        "NapaGapaId": "95",
+        "NapaGapaNE": "सिलीचोङ गाउँपालिका",
+        "NapaGapaEN": "Silichong",
+        "DistrictId": "9"
+    },
+    {
+        "NapaGapaId": "96",
+        "NapaGapaNE": "आमचोक गाउँपालिका",
+        "NapaGapaEN": "Aamchowk",
+        "DistrictId": "10"
+    },
+    {
+        "NapaGapaId": "97",
+        "NapaGapaNE": "अरुण गाउँपालिका",
+        "NapaGapaEN": "Arun",
+        "DistrictId": "10"
+    },
+    {
+        "NapaGapaId": "98",
+        "NapaGapaNE": "भोजपुर नगरपालिका",
+        "NapaGapaEN": "Bhojpur",
+        "DistrictId": "10"
+    },
+    {
+        "NapaGapaId": "99",
+        "NapaGapaNE": "हतुवागढी गाउँपालिका",
+        "NapaGapaEN": "Hatuwagadhi",
+        "DistrictId": "10"
+    },
+    {
+        "NapaGapaId": "100",
+        "NapaGapaNE": "पौवादुङमा गाउँपालिका",
+        "NapaGapaEN": "Pauwadungma",
+        "DistrictId": "10"
+    },
+    {
+        "NapaGapaId": "101",
+        "NapaGapaNE": "रामप्रसाद राई गाउँपालिका",
+        "NapaGapaEN": "Ramprasad Rai",
+        "DistrictId": "10"
+    },
+    {
+        "NapaGapaId": "102",
+        "NapaGapaNE": "साल्पासिलिछो गाउँपालिका",
+        "NapaGapaEN": "Salpasilichho",
+        "DistrictId": "10"
+    },
+    {
+        "NapaGapaId": "103",
+        "NapaGapaNE": "षडानन्द नगरपालिका",
+        "NapaGapaEN": "Shadananda",
+        "DistrictId": "10"
+    },
+    {
+        "NapaGapaId": "104",
+        "NapaGapaNE": "ट्याम्केमैयुम गाउँपालिका",
+        "NapaGapaEN": "Tyamkemaiyung",
+        "DistrictId": "10"
+    },
+    {
+        "NapaGapaId": "105",
+        "NapaGapaNE": "दुधकौशिका गाउँपालिका",
+        "NapaGapaEN": "Dudhkaushika",
+        "DistrictId": "11"
+    },
+    {
+        "NapaGapaId": "106",
+        "NapaGapaNE": "दुधकोशी गाउँपालिका",
+        "NapaGapaEN": "Dudhkoshi",
+        "DistrictId": "11"
+    },
+    {
+        "NapaGapaId": "107",
+        "NapaGapaNE": "खुम्वु पासाङल्हमु गाउँपालिका",
+        "NapaGapaEN": "Khumbupasanglahmu",
+        "DistrictId": "11"
+    },
+    {
+        "NapaGapaId": "108",
+        "NapaGapaNE": "लिखु पिके गाउँपालिका",
+        "NapaGapaEN": "Likhupike",
+        "DistrictId": "11"
+    },
+    {
+        "NapaGapaId": "109",
+        "NapaGapaNE": "महाकुलुङ गाउँपालिका",
+        "NapaGapaEN": "Mahakulung",
+        "DistrictId": "11"
+    },
+    {
+        "NapaGapaId": "110",
+        "NapaGapaNE": "नेचासल्यान गाउँपालिका",
+        "NapaGapaEN": "Nechasalyan",
+        "DistrictId": "11"
+    },
+    {
+        "NapaGapaId": "111",
+        "NapaGapaNE": "सोलु दुधकुण्ड नगरपालिका",
+        "NapaGapaEN": "Solududhakunda",
+        "DistrictId": "11"
+    },
+    {
+        "NapaGapaId": "112",
+        "NapaGapaNE": "सोताङ गाउँपालिका",
+        "NapaGapaEN": "Sotang",
+        "DistrictId": "11"
+    },
+    {
+        "NapaGapaId": "113",
+        "NapaGapaNE": "चम्पादेवी  गाउँपालिका",
+        "NapaGapaEN": "Champadevi",
+        "DistrictId": "12"
+    },
+    {
+        "NapaGapaId": "114",
+        "NapaGapaNE": "चिशंखुगढी गाउँपालिका",
+        "NapaGapaEN": "Chisankhugadhi",
+        "DistrictId": "12"
+    },
+    {
+        "NapaGapaId": "115",
+        "NapaGapaNE": "खिजिदेम्वा गाउँपालिका",
+        "NapaGapaEN": "Khijidemba",
+        "DistrictId": "12"
+    },
+    {
+        "NapaGapaId": "116",
+        "NapaGapaNE": "लिखु  गाउँपालिका",
+        "NapaGapaEN": "Likhu",
+        "DistrictId": "12"
+    },
+    {
+        "NapaGapaId": "117",
+        "NapaGapaNE": "मानेभञ्ज्याङ गाउँपालिका",
+        "NapaGapaEN": "Manebhanjyang",
+        "DistrictId": "12"
+    },
+    {
+        "NapaGapaId": "118",
+        "NapaGapaNE": "मोलुङ गाउँपालिका",
+        "NapaGapaEN": "Molung",
+        "DistrictId": "12"
+    },
+    {
+        "NapaGapaId": "119",
+        "NapaGapaNE": "सिद्दिचरण नगरपालिका",
+        "NapaGapaEN": "Siddhicharan",
+        "DistrictId": "13"
+    },
+    {
+        "NapaGapaId": "120",
+        "NapaGapaNE": "सुनकोशी गाउँपालिका",
+        "NapaGapaEN": "Sunkoshi",
+        "DistrictId": "12"
+    },
+    {
+        "NapaGapaId": "121",
+        "NapaGapaNE": "ऐसेलुखर्क गाउँपालिका",
+        "NapaGapaEN": "Ainselukhark",
+        "DistrictId": "13"
+    },
+    {
+        "NapaGapaId": "122",
+        "NapaGapaNE": "बराहपोखरी गाउँपालिका",
+        "NapaGapaEN": "Barahapokhari",
+        "DistrictId": "13"
+    },
+    {
+        "NapaGapaId": "123",
+        "NapaGapaNE": "दिप्रुङ गाउँपालिका",
+        "NapaGapaEN": "Diprung",
+        "DistrictId": "13"
+    },
+    {
+        "NapaGapaId": "124",
+        "NapaGapaNE": "हलेसी तुवाचुङ नगरपालिका",
+        "NapaGapaEN": "Halesi Tuwachung",
+        "DistrictId": "13"
+    },
+    {
+        "NapaGapaId": "125",
+        "NapaGapaNE": "जन्तेढुंगा गाउँपालिका",
+        "NapaGapaEN": "Jantedhunga",
+        "DistrictId": "13"
+    },
+    {
+        "NapaGapaId": "126",
+        "NapaGapaNE": "केपिलासगढी गाउँपालिका",
+        "NapaGapaEN": "Kepilasagadhi",
+        "DistrictId": "13"
+    },
+    {
+        "NapaGapaId": "127",
+        "NapaGapaNE": "खोटेहाङ गाउँपालिका",
+        "NapaGapaEN": "Khotehang",
+        "DistrictId": "13"
+    },
+    {
+        "NapaGapaId": "128",
+        "NapaGapaNE": "लामीडाँडा गाउँपालिका",
+        "NapaGapaEN": "Lamidanda",
+        "DistrictId": "13"
+    },
+    {
+        "NapaGapaId": "129",
+        "NapaGapaNE": "रुपाकोट मजुवागढी नगरपालिका",
+        "NapaGapaEN": "Rupakot Majhuwagadhi",
+        "DistrictId": "13"
+    },
+    {
+        "NapaGapaId": "130",
+        "NapaGapaNE": "साकेला गाउँपालिका",
+        "NapaGapaEN": "Sakela",
+        "DistrictId": "13"
+    },
+    {
+        "NapaGapaId": "131",
+        "NapaGapaNE": "वेलका  नगरपालिका",
+        "NapaGapaEN": "Belaka",
+        "DistrictId": "14"
+    },
+    {
+        "NapaGapaId": "132",
+        "NapaGapaNE": "चौदण्डीगढी नगरपालिका",
+        "NapaGapaEN": "Chaudandigadhi",
+        "DistrictId": "14"
+    },
+    {
+        "NapaGapaId": "133",
+        "NapaGapaNE": "कटारी  नगरपालिका",
+        "NapaGapaEN": "Katari",
+        "DistrictId": "14"
+    },
+    {
+        "NapaGapaId": "134",
+        "NapaGapaNE": "रौतामाई गाउँपालिका",
+        "NapaGapaEN": "Rautamai",
+        "DistrictId": "14"
+    },
+    {
+        "NapaGapaId": "135",
+        "NapaGapaNE": "सुनकोशी गाउँपालिका",
+        "NapaGapaEN": "Sunkoshi",
+        "DistrictId": "14"
+    },
+    {
+        "NapaGapaId": "136",
+        "NapaGapaNE": "ताप्ली गाउँपालिका",
+        "NapaGapaEN": "Tapli",
+        "DistrictId": "14"
+    },
+    {
+        "NapaGapaId": "137",
+        "NapaGapaNE": "त्रियुगा नगरपालिका",
+        "NapaGapaEN": "Triyuga",
+        "DistrictId": "14"
+    },
+    {
+        "NapaGapaId": "138",
+        "NapaGapaNE": "उदयपुरगढी गाउँपालिका",
+        "NapaGapaEN": "Udayapurgadhi",
+        "DistrictId": "14"
+    },
+    {
+        "NapaGapaId": "139",
+        "NapaGapaNE": null,
+        "NapaGapaEN": "Koshi Tappu Wildlife Reserve",
+        "DistrictId": "14"
+    },
+    {
+        "NapaGapaId": "140",
+        "NapaGapaNE": "अग्नीसाइर कृष्णासवरन गाउँपालिका",
+        "NapaGapaEN": "Agnisair Krishna Savaran",
+        "DistrictId": "15"
+    },
+    {
+        "NapaGapaId": "141",
+        "NapaGapaNE": "वलान-विहुल गाउँपालिका",
+        "NapaGapaEN": "Balan Bihul",
+        "DistrictId": "15"
+    },
+    {
+        "NapaGapaId": "142",
+        "NapaGapaNE": "बेल्ही चपेना गाउँपालिका",
+        "NapaGapaEN": "Belhi Chapena",
+        "DistrictId": "15"
+    },
+    {
+        "NapaGapaId": "143",
+        "NapaGapaNE": "विष्णुपुर गाउँपालिका",
+        "NapaGapaEN": "Bishnupur",
+        "DistrictId": "15"
+    },
+    {
+        "NapaGapaId": "144",
+        "NapaGapaNE": "बोदे बरसाइन नगरपालिका",
+        "NapaGapaEN": "Bode Barsain",
+        "DistrictId": "15"
+    },
+    {
+        "NapaGapaId": "145",
+        "NapaGapaNE": "छिन्नमस्ता गाउँपालिका",
+        "NapaGapaEN": "Chhinnamasta",
+        "DistrictId": "15"
+    },
+    {
+        "NapaGapaId": "146",
+        "NapaGapaNE": "डाक्नेश्वरी नगरपालिका",
+        "NapaGapaEN": "Dakneshwori",
+        "DistrictId": "15"
+    },
+    {
+        "NapaGapaId": "147",
+        "NapaGapaNE": "हनुमाननगर कङ्कालिनी नगरपालिका",
+        "NapaGapaEN": "Hanumannagar Kankalini",
+        "DistrictId": "15"
+    },
+    {
+        "NapaGapaId": "148",
+        "NapaGapaNE": "कञ्चनरुप नगरपालिका",
+        "NapaGapaEN": "Kanchanrup",
+        "DistrictId": "15"
+    },
+    {
+        "NapaGapaId": "149",
+        "NapaGapaNE": "खडक नगरपालिका",
+        "NapaGapaEN": "Khadak",
+        "DistrictId": "15"
+    },
+    {
+        "NapaGapaId": "150",
+        "NapaGapaNE": "महादेवा गाउँपालिका",
+        "NapaGapaEN": "Mahadeva",
+        "DistrictId": "15"
+    },
+    {
+        "NapaGapaId": "151",
+        "NapaGapaNE": "राजविराज नगरपालिका",
+        "NapaGapaEN": "Rajbiraj",
+        "DistrictId": "15"
+    },
+    {
+        "NapaGapaId": "152",
+        "NapaGapaNE": "रुपनी गाउँपालिका",
+        "NapaGapaEN": "Rupani",
+        "DistrictId": "15"
+    },
+    {
+        "NapaGapaId": "153",
+        "NapaGapaNE": "सप्तकोशी नगरपालिका",
+        "NapaGapaEN": "Saptakoshi",
+        "DistrictId": "15"
+    },
+    {
+        "NapaGapaId": "154",
+        "NapaGapaNE": "शम्भुनाथ  नगरपालिका",
+        "NapaGapaEN": "Shambhunath",
+        "DistrictId": "15"
+    },
+    {
+        "NapaGapaId": "155",
+        "NapaGapaNE": "सुरुङ्गा नगरपालिका",
+        "NapaGapaEN": "Surunga",
+        "DistrictId": "15"
+    },
+    {
+        "NapaGapaId": "156",
+        "NapaGapaNE": "तिलाठी कोईलाडी गाउँपालिका",
+        "NapaGapaEN": "Tilathi Koiladi",
+        "DistrictId": "15"
+    },
+    {
+        "NapaGapaId": "157",
+        "NapaGapaNE": "तिरहुत गाउँपालिका",
+        "NapaGapaEN": "Tirahut",
+        "DistrictId": "15"
+    },
+    {
+        "NapaGapaId": "158",
+        "NapaGapaNE": null,
+        "NapaGapaEN": "Koshi Tappu Wildlife Reserve",
+        "DistrictId": "15"
+    },
+    {
+        "NapaGapaId": "159",
+        "NapaGapaNE": "अर्नमा गाउँपालिका",
+        "NapaGapaEN": "Arnama",
+        "DistrictId": "16"
+    },
+    {
+        "NapaGapaId": "160",
+        "NapaGapaNE": "औरही गाउँपालिका",
+        "NapaGapaEN": "Aurahi",
+        "DistrictId": "16"
+    },
+    {
+        "NapaGapaId": "161",
+        "NapaGapaNE": "बरियारपट्टी गाउँपालिका",
+        "NapaGapaEN": "Bariyarpatti",
+        "DistrictId": "16"
+    },
+    {
+        "NapaGapaId": "162",
+        "NapaGapaNE": "भगवानपुर गाउँपालिका",
+        "NapaGapaEN": "Bhagawanpur",
+        "DistrictId": "16"
+    },
+    {
+        "NapaGapaId": "163",
+        "NapaGapaNE": "विष्णुपुर गाउँपालिका",
+        "NapaGapaEN": "Bishnupur",
+        "DistrictId": "16"
+    },
+    {
+        "NapaGapaId": "164",
+        "NapaGapaNE": "धनगढीमाई नगरपालिका",
+        "NapaGapaEN": "Dhangadhimai",
+        "DistrictId": "16"
+    },
+    {
+        "NapaGapaId": "165",
+        "NapaGapaNE": "गोलबजार नगरपालिका",
+        "NapaGapaEN": "Golbazar",
+        "DistrictId": "16"
+    },
+    {
+        "NapaGapaId": "166",
+        "NapaGapaNE": "कल्याणपुर नगरपालिका",
+        "NapaGapaEN": "Kalyanpur",
+        "DistrictId": "16"
+    },
+    {
+        "NapaGapaId": "167",
+        "NapaGapaNE": "कर्जन्हा नगरपालिका",
+        "NapaGapaEN": "Karjanha",
+        "DistrictId": "16"
+    },
+    {
+        "NapaGapaId": "168",
+        "NapaGapaNE": "लहान नगरपालिका",
+        "NapaGapaEN": "Lahan",
+        "DistrictId": "16"
+    },
+    {
+        "NapaGapaId": "169",
+        "NapaGapaNE": "लक्ष्मीपुर पतारी गाउँपालिका",
+        "NapaGapaEN": "Laxmipur Patari",
+        "DistrictId": "16"
+    },
+    {
+        "NapaGapaId": "170",
+        "NapaGapaNE": "मिर्चैया नगरपालिका",
+        "NapaGapaEN": "Mirchaiya",
+        "DistrictId": "16"
+    },
+    {
+        "NapaGapaId": "171",
+        "NapaGapaNE": "नरहा गाउँपालिका",
+        "NapaGapaEN": "Naraha",
+        "DistrictId": "16"
+    },
+    {
+        "NapaGapaId": "172",
+        "NapaGapaNE": "नवराजपुर गाउँपालिका",
+        "NapaGapaEN": "Nawarajpur",
+        "DistrictId": "16"
+    },
+    {
+        "NapaGapaId": "173",
+        "NapaGapaNE": "सखुवानान्कारकट्टी गाउँपालिका",
+        "NapaGapaEN": "Sakhuwanankarkatti",
+        "DistrictId": "16"
+    },
+    {
+        "NapaGapaId": "174",
+        "NapaGapaNE": "सिराहा नगरपालिका",
+        "NapaGapaEN": "Siraha",
+        "DistrictId": "16"
+    },
+    {
+        "NapaGapaId": "175",
+        "NapaGapaNE": "सुखीपुर नगरपालिका",
+        "NapaGapaEN": "Sukhipur",
+        "DistrictId": "16"
+    },
+    {
+        "NapaGapaId": "176",
+        "NapaGapaNE": "औरही  गाउँपालिका",
+        "NapaGapaEN": "Aaurahi",
+        "DistrictId": "17"
+    },
+    {
+        "NapaGapaId": "177",
+        "NapaGapaNE": "बटेश्वर गाउँपालिका",
+        "NapaGapaEN": "Bateshwor",
+        "DistrictId": "17"
+    },
+    {
+        "NapaGapaId": "178",
+        "NapaGapaNE": "विदेह नगरपालिका",
+        "NapaGapaEN": "Bideha",
+        "DistrictId": "17"
+    },
+    {
+        "NapaGapaId": "179",
+        "NapaGapaNE": "क्षिरेश्वरनाथ नगरपालिका",
+        "NapaGapaEN": "Chhireshwornath",
+        "DistrictId": "17"
+    },
+    {
+        "NapaGapaId": "180",
+        "NapaGapaNE": "धनौजी गाउँपालिका",
+        "NapaGapaEN": "Dhanauji",
+        "DistrictId": "17"
+    },
+    {
+        "NapaGapaId": "181",
+        "NapaGapaNE": "धनुषाधाम नगरपालिका",
+        "NapaGapaEN": "Dhanusadham",
+        "DistrictId": "17"
+    },
+    {
+        "NapaGapaId": "182",
+        "NapaGapaNE": "गणेशमान चारनाथ नगरपालिका",
+        "NapaGapaEN": "Ganeshman Charnath",
+        "DistrictId": "17"
+    },
+    {
+        "NapaGapaId": "183",
+        "NapaGapaNE": "हंसपुर नगरपालिका",
+        "NapaGapaEN": "Hansapur",
+        "DistrictId": "17"
+    },
+    {
+        "NapaGapaId": "184",
+        "NapaGapaNE": "जनकनन्दिनी गाउँपालिका",
+        "NapaGapaEN": "Janaknandani",
+        "DistrictId": "17"
+    },
+    {
+        "NapaGapaId": "185",
+        "NapaGapaNE": "जनकपुर उपमहानगरपालिका",
+        "NapaGapaEN": "Janakpur",
+        "DistrictId": "17"
+    },
+    {
+        "NapaGapaId": "186",
+        "NapaGapaNE": "कमला नगरपालिका",
+        "NapaGapaEN": "Kamala",
+        "DistrictId": "17"
+    },
+    {
+        "NapaGapaId": "187",
+        "NapaGapaNE": "लक्ष्मीनिया गाउँपालिका",
+        "NapaGapaEN": "Lakshminiya",
+        "DistrictId": "17"
+    },
+    {
+        "NapaGapaId": "188",
+        "NapaGapaNE": "मिथिला नगरपालिका",
+        "NapaGapaEN": "Mithila",
+        "DistrictId": "17"
+    },
+    {
+        "NapaGapaId": "189",
+        "NapaGapaNE": "मिथिला बिहारी नगरपालिका",
+        "NapaGapaEN": "Mithila Bihari",
+        "DistrictId": "17"
+    },
+    {
+        "NapaGapaId": "190",
+        "NapaGapaNE": "मुखियापट्टी मुसहरमिया गाउँपालिका",
+        "NapaGapaEN": "Mukhiyapatti Musarmiya",
+        "DistrictId": "17"
+    },
+    {
+        "NapaGapaId": "191",
+        "NapaGapaNE": "नगराइन नगरपालिका",
+        "NapaGapaEN": "Nagarain",
+        "DistrictId": "17"
+    },
+    {
+        "NapaGapaId": "192",
+        "NapaGapaNE": "सबैला नगरपालिका",
+        "NapaGapaEN": "Sabaila",
+        "DistrictId": "17"
+    },
+    {
+        "NapaGapaId": "193",
+        "NapaGapaNE": "शहीदनगर नगरपालिका",
+        "NapaGapaEN": "Sahidnagar",
+        "DistrictId": "17"
+    },
+    {
+        "NapaGapaId": "194",
+        "NapaGapaNE": "औरही गाउँपालिका",
+        "NapaGapaEN": "Aurahi",
+        "DistrictId": "18"
+    },
+    {
+        "NapaGapaId": "195",
+        "NapaGapaNE": "बलवा नगरपालिका",
+        "NapaGapaEN": "Balwa",
+        "DistrictId": "18"
+    },
+    {
+        "NapaGapaId": "196",
+        "NapaGapaNE": "बर्दिबास नगरपालिका",
+        "NapaGapaEN": "Bardibas",
+        "DistrictId": "18"
+    },
+    {
+        "NapaGapaId": "197",
+        "NapaGapaNE": "भँगाहा नगरपालिका",
+        "NapaGapaEN": "Bhangaha",
+        "DistrictId": "18"
+    },
+    {
+        "NapaGapaId": "198",
+        "NapaGapaNE": "एकडारा गाउँपालिका",
+        "NapaGapaEN": "Ekdanra",
+        "DistrictId": "18"
+    },
+    {
+        "NapaGapaId": "199",
+        "NapaGapaNE": "गौशाला नगरपालिका",
+        "NapaGapaEN": "Gaushala",
+        "DistrictId": "18"
+    },
+    {
+        "NapaGapaId": "200",
+        "NapaGapaNE": "जलेश्वर नगरपालिका",
+        "NapaGapaEN": "Jaleswor",
+        "DistrictId": "18"
+    },
+    {
+        "NapaGapaId": "201",
+        "NapaGapaNE": "लोहरपट्टी नगरपालिका",
+        "NapaGapaEN": "Loharpatti",
+        "DistrictId": "18"
+    },
+    {
+        "NapaGapaId": "202",
+        "NapaGapaNE": "महोत्तरी गाउँपालिका",
+        "NapaGapaEN": "Mahottari",
+        "DistrictId": "18"
+    },
+    {
+        "NapaGapaId": "203",
+        "NapaGapaNE": "मनरा शिसवा नगरपालिका",
+        "NapaGapaEN": "Manra Siswa",
+        "DistrictId": "18"
+    },
+    {
+        "NapaGapaId": "204",
+        "NapaGapaNE": "मटिहानी नगरपालिका",
+        "NapaGapaEN": "Matihani",
+        "DistrictId": "18"
+    },
+    {
+        "NapaGapaId": "205",
+        "NapaGapaNE": "पिपरा गाउँपालिका",
+        "NapaGapaEN": "Pipra",
+        "DistrictId": "18"
+    },
+    {
+        "NapaGapaId": "206",
+        "NapaGapaNE": "रामगोपालपुर नगरपालिका",
+        "NapaGapaEN": "Ramgopalpur",
+        "DistrictId": "18"
+    },
+    {
+        "NapaGapaId": "207",
+        "NapaGapaNE": "साम्सी गाउँपालिका",
+        "NapaGapaEN": "Samsi",
+        "DistrictId": "18"
+    },
+    {
+        "NapaGapaId": "208",
+        "NapaGapaNE": "सोनमा गाउँपालिका",
+        "NapaGapaEN": "Sonama",
+        "DistrictId": "18"
+    },
+    {
+        "NapaGapaId": "209",
+        "NapaGapaNE": "बागमती नगरपालिका",
+        "NapaGapaEN": "Bagmati",
+        "DistrictId": "19"
+    },
+    {
+        "NapaGapaId": "210",
+        "NapaGapaNE": "बलरा नगरपालिका",
+        "NapaGapaEN": "Balara",
+        "DistrictId": "19"
+    },
+    {
+        "NapaGapaId": "211",
+        "NapaGapaNE": "बरहथवा नगरपालिका",
+        "NapaGapaEN": "Barahathawa",
+        "DistrictId": "19"
+    },
+    {
+        "NapaGapaId": "212",
+        "NapaGapaNE": "बसबरिया गाउँपालिका",
+        "NapaGapaEN": "Basbariya",
+        "DistrictId": "19"
+    },
+    {
+        "NapaGapaId": "213",
+        "NapaGapaNE": "विष्णु गाउँपालिका",
+        "NapaGapaEN": "Bishnu",
+        "DistrictId": "19"
+    },
+    {
+        "NapaGapaId": "214",
+        "NapaGapaNE": "ब्रह्मपुरी  गाउँपालिका",
+        "NapaGapaEN": "Bramhapuri",
+        "DistrictId": "19"
+    },
+    {
+        "NapaGapaId": "215",
+        "NapaGapaNE": "चक्रघट्टा  गाउँपालिका",
+        "NapaGapaEN": "Chakraghatta",
+        "DistrictId": "19"
+    },
+    {
+        "NapaGapaId": "216",
+        "NapaGapaNE": "चन्द्रनगर गाउँपालिका",
+        "NapaGapaEN": "Chandranagar",
+        "DistrictId": "19"
+    },
+    {
+        "NapaGapaId": "217",
+        "NapaGapaNE": "धनकौल गाउँपालिका",
+        "NapaGapaEN": "Dhankaul",
+        "DistrictId": "19"
+    },
+    {
+        "NapaGapaId": "218",
+        "NapaGapaNE": "गोडैटा  नगरपालिका",
+        "NapaGapaEN": "Godaita",
+        "DistrictId": "19"
+    },
+    {
+        "NapaGapaId": "219",
+        "NapaGapaNE": "हरिपुर नगरपालिका",
+        "NapaGapaEN": "Haripur",
+        "DistrictId": "19"
+    },
+    {
+        "NapaGapaId": "220",
+        "NapaGapaNE": "हरिपुर्वा नगरपालिका",
+        "NapaGapaEN": "Haripurwa",
+        "DistrictId": "19"
+    },
+    {
+        "NapaGapaId": "221",
+        "NapaGapaNE": "हरिवन नगरपालिका",
+        "NapaGapaEN": "Hariwan",
+        "DistrictId": "19"
+    },
+    {
+        "NapaGapaId": "222",
+        "NapaGapaNE": "ईश्वरपुर नगरपालिका",
+        "NapaGapaEN": "Ishworpur",
+        "DistrictId": "19"
+    },
+    {
+        "NapaGapaId": "223",
+        "NapaGapaNE": "कविलासी नगरपालिका",
+        "NapaGapaEN": "Kabilasi",
+        "DistrictId": "19"
+    },
+    {
+        "NapaGapaId": "224",
+        "NapaGapaNE": "कौडेना गाउँपालिका",
+        "NapaGapaEN": "Kaudena",
+        "DistrictId": "19"
+    },
+    {
+        "NapaGapaId": "225",
+        "NapaGapaNE": "लालबन्दी नगरपालिका",
+        "NapaGapaEN": "Lalbandi",
+        "DistrictId": "19"
+    },
+    {
+        "NapaGapaId": "226",
+        "NapaGapaNE": "मलंगवा नगरपालिका",
+        "NapaGapaEN": "Malangawa",
+        "DistrictId": "19"
+    },
+    {
+        "NapaGapaId": "227",
+        "NapaGapaNE": "पर्सा गाउँपालिका",
+        "NapaGapaEN": "Parsa",
+        "DistrictId": "19"
+    },
+    {
+        "NapaGapaId": "228",
+        "NapaGapaNE": "रामनगर गाउँपालिका",
+        "NapaGapaEN": "Ramnagar",
+        "DistrictId": "19"
+    },
+    {
+        "NapaGapaId": "229",
+        "NapaGapaNE": "दुधौली नगरपालिका",
+        "NapaGapaEN": "Dudhouli",
+        "DistrictId": "20"
+    },
+    {
+        "NapaGapaId": "230",
+        "NapaGapaNE": "घ्याङलेख गाउँपालिका",
+        "NapaGapaEN": "Ghanglekh",
+        "DistrictId": "20"
+    },
+    {
+        "NapaGapaId": "231",
+        "NapaGapaNE": "गोलन्जोर गाउँपालिका",
+        "NapaGapaEN": "Golanjor",
+        "DistrictId": "20"
+    },
+    {
+        "NapaGapaId": "232",
+        "NapaGapaNE": "हरिहरपुरगढी गाउँपालिका",
+        "NapaGapaEN": "Hariharpurgadhi",
+        "DistrictId": "20"
+    },
+    {
+        "NapaGapaId": "233",
+        "NapaGapaNE": "कमलामाई नगरपालिका",
+        "NapaGapaEN": "Kamalamai",
+        "DistrictId": "20"
+    },
+    {
+        "NapaGapaId": "234",
+        "NapaGapaNE": "मरिण गाउँपालिका",
+        "NapaGapaEN": "Marin",
+        "DistrictId": "20"
+    },
+    {
+        "NapaGapaId": "235",
+        "NapaGapaNE": "फिक्कल गाउँपालिका",
+        "NapaGapaEN": "Phikkal",
+        "DistrictId": "20"
+    },
+    {
+        "NapaGapaId": "236",
+        "NapaGapaNE": "सुनकोशी गाउँपालिका",
+        "NapaGapaEN": "Sunkoshi",
+        "DistrictId": "20"
+    },
+    {
+        "NapaGapaId": "237",
+        "NapaGapaNE": "तिनपाटन गाउँपालिका",
+        "NapaGapaEN": "Tinpatan",
+        "DistrictId": "20"
+    },
+    {
+        "NapaGapaId": "238",
+        "NapaGapaNE": "दोरम्बा गाउँपालिका",
+        "NapaGapaEN": "Doramba",
+        "DistrictId": "21"
+    },
+    {
+        "NapaGapaId": "239",
+        "NapaGapaNE": "गोकुलगङ्गा गाउँपालिका",
+        "NapaGapaEN": "Gokulganga",
+        "DistrictId": "21"
+    },
+    {
+        "NapaGapaId": "240",
+        "NapaGapaNE": "खाँडादेवी गाउँपालिका",
+        "NapaGapaEN": "Khadadevi",
+        "DistrictId": "21"
+    },
+    {
+        "NapaGapaId": "241",
+        "NapaGapaNE": "लिखु  गाउँपालिका",
+        "NapaGapaEN": "Likhu",
+        "DistrictId": "21"
+    },
+    {
+        "NapaGapaId": "242",
+        "NapaGapaNE": "मन्थली नगरपालिका",
+        "NapaGapaEN": "Manthali",
+        "DistrictId": "21"
+    },
+    {
+        "NapaGapaId": "243",
+        "NapaGapaNE": "रामेछाप नगरपालिका",
+        "NapaGapaEN": "Ramechhap",
+        "DistrictId": "21"
+    },
+    {
+        "NapaGapaId": "244",
+        "NapaGapaNE": "सुनापती गाउँपालिका",
+        "NapaGapaEN": "Sunapati",
+        "DistrictId": "21"
+    },
+    {
+        "NapaGapaId": "245",
+        "NapaGapaNE": "उमाकुण्ड गाउँपालिका",
+        "NapaGapaEN": "Umakunda",
+        "DistrictId": "21"
+    },
+    {
+        "NapaGapaId": "246",
+        "NapaGapaNE": "वैतेश्वर  गाउँपालिका",
+        "NapaGapaEN": "Baiteshwor",
+        "DistrictId": "22"
+    },
+    {
+        "NapaGapaId": "247",
+        "NapaGapaNE": "भिमेश्वर  नगरपालिका",
+        "NapaGapaEN": "Bhimeshwor",
+        "DistrictId": "22"
+    },
+    {
+        "NapaGapaId": "248",
+        "NapaGapaNE": "विगु गाउँपालिका",
+        "NapaGapaEN": "Bigu",
+        "DistrictId": "22"
+    },
+    {
+        "NapaGapaId": "249",
+        "NapaGapaNE": "गौरिशंकर  गाउँपालिका",
+        "NapaGapaEN": "Gaurishankar",
+        "DistrictId": "22"
+    },
+    {
+        "NapaGapaId": "250",
+        "NapaGapaNE": "जिरी  नगरपालिका",
+        "NapaGapaEN": "Jiri",
+        "DistrictId": "22"
+    },
+    {
+        "NapaGapaId": "251",
+        "NapaGapaNE": "कालिन्चोक  गाउँपालिका",
+        "NapaGapaEN": "Kalinchok",
+        "DistrictId": "22"
+    },
+    {
+        "NapaGapaId": "252",
+        "NapaGapaNE": "मेलुङ  गाउँपालिका",
+        "NapaGapaEN": "Melung",
+        "DistrictId": "22"
+    },
+    {
+        "NapaGapaId": "253",
+        "NapaGapaNE": "शैलुङ  गाउँपालिका",
+        "NapaGapaEN": "Sailung",
+        "DistrictId": "22"
+    },
+    {
+        "NapaGapaId": "254",
+        "NapaGapaNE": "तामाकोशी  गाउँपालिका",
+        "NapaGapaEN": "Tamakoshi",
+        "DistrictId": "22"
+    },
+    {
+        "NapaGapaId": "255",
+        "NapaGapaNE": "बलेफी गाउँपालिका",
+        "NapaGapaEN": "Balefi",
+        "DistrictId": "23"
+    },
+    {
+        "NapaGapaId": "256",
+        "NapaGapaNE": "वाह्रविसे नगरपालिका",
+        "NapaGapaEN": "Barhabise",
+        "DistrictId": "23"
+    },
+    {
+        "NapaGapaId": "257",
+        "NapaGapaNE": "भोटेकोशी गाउँपालिका",
+        "NapaGapaEN": "Bhotekoshi",
+        "DistrictId": "23"
+    },
+    {
+        "NapaGapaId": "258",
+        "NapaGapaNE": "चौतारा साँगाचोकगढी नगरपालिका",
+        "NapaGapaEN": "Chautara SangachokGadhi",
+        "DistrictId": "23"
+    },
+    {
+        "NapaGapaId": "259",
+        "NapaGapaNE": "हेलम्बु  गाउँपालिका",
+        "NapaGapaEN": "Helambu",
+        "DistrictId": "23"
+    },
+    {
+        "NapaGapaId": "260",
+        "NapaGapaNE": "र्इन्द्रावती गाउँपालिका",
+        "NapaGapaEN": "Indrawati",
+        "DistrictId": "23"
+    },
+    {
+        "NapaGapaId": "261",
+        "NapaGapaNE": "जुगल गाउँपालिका",
+        "NapaGapaEN": "Jugal",
+        "DistrictId": "23"
+    },
+    {
+        "NapaGapaId": "262",
+        "NapaGapaNE": "लिसंखु पाखर गाउँपालिका",
+        "NapaGapaEN": "Lisangkhu Pakhar",
+        "DistrictId": "23"
+    },
+    {
+        "NapaGapaId": "263",
+        "NapaGapaNE": "मेलम्ची नगरपालिका",
+        "NapaGapaEN": "Melamchi",
+        "DistrictId": "23"
+    },
+    {
+        "NapaGapaId": "264",
+        "NapaGapaNE": "पाँचपोखरी थाङपाल  गाउँपालिका",
+        "NapaGapaEN": "Panchpokhari Thangpal",
+        "DistrictId": "23"
+    },
+    {
+        "NapaGapaId": "265",
+        "NapaGapaNE": "सुनकोशी गाउँपालिका",
+        "NapaGapaEN": "Sunkoshi",
+        "DistrictId": "23"
+    },
+    {
+        "NapaGapaId": "266",
+        "NapaGapaNE": "त्रिपुरासुन्दरी गाउँपालिका",
+        "NapaGapaEN": "Tripurasundari",
+        "DistrictId": "23"
+    },
+    {
+        "NapaGapaId": "267",
+        "NapaGapaNE": "बनेपा नगरपालिका",
+        "NapaGapaEN": "Banepa",
+        "DistrictId": "24"
+    },
+    {
+        "NapaGapaId": "268",
+        "NapaGapaNE": "बेथानचोक गाउँपालिका",
+        "NapaGapaEN": "Bethanchowk",
+        "DistrictId": "24"
+    },
+    {
+        "NapaGapaId": "269",
+        "NapaGapaNE": "भुम्लु गाउँपालिका",
+        "NapaGapaEN": "Bhumlu",
+        "DistrictId": "24"
+    },
+    {
+        "NapaGapaId": "270",
+        "NapaGapaNE": "चौंरीदेउराली गाउँपालिका",
+        "NapaGapaEN": "Chaurideurali",
+        "DistrictId": "24"
+    },
+    {
+        "NapaGapaId": "271",
+        "NapaGapaNE": "धुलिखेल नगरपालिका",
+        "NapaGapaEN": "Dhulikhel",
+        "DistrictId": "24"
+    },
+    {
+        "NapaGapaId": "272",
+        "NapaGapaNE": "खानीखोला गाउँपालिका",
+        "NapaGapaEN": "Khanikhola",
+        "DistrictId": "24"
+    },
+    {
+        "NapaGapaId": "273",
+        "NapaGapaNE": "महाभारत गाउँपालिका",
+        "NapaGapaEN": "Mahabharat",
+        "DistrictId": "24"
+    },
+    {
+        "NapaGapaId": "274",
+        "NapaGapaNE": "मण्डनदेउपुर नगरपालिका",
+        "NapaGapaEN": "Mandandeupur",
+        "DistrictId": "24"
+    },
+    {
+        "NapaGapaId": "275",
+        "NapaGapaNE": "नमोबुद्ध नगरपालिका",
+        "NapaGapaEN": "Namobuddha",
+        "DistrictId": "24"
+    },
+    {
+        "NapaGapaId": "276",
+        "NapaGapaNE": "पनौती नगरपालिका",
+        "NapaGapaEN": "Panauti",
+        "DistrictId": "24"
+    },
+    {
+        "NapaGapaId": "277",
+        "NapaGapaNE": "पाँचखाल नगरपालिका",
+        "NapaGapaEN": "Panchkhal",
+        "DistrictId": "24"
+    },
+    {
+        "NapaGapaId": "278",
+        "NapaGapaNE": "रोशी गाउँपालिका",
+        "NapaGapaEN": "Roshi",
+        "DistrictId": "24"
+    },
+    {
+        "NapaGapaId": "279",
+        "NapaGapaNE": "तेमाल गाउँपालिका",
+        "NapaGapaEN": "Temal",
+        "DistrictId": "24"
+    },
+    {
+        "NapaGapaId": "280",
+        "NapaGapaNE": "बागमती नगरपालिका",
+        "NapaGapaEN": "Bagmati",
+        "DistrictId": "25"
+    },
+    {
+        "NapaGapaId": "281",
+        "NapaGapaNE": "गोदावरी नगरपालिका",
+        "NapaGapaEN": "Godawari",
+        "DistrictId": "25"
+    },
+    {
+        "NapaGapaId": "282",
+        "NapaGapaNE": "कोन्ज्योसोम गाउँपालिका",
+        "NapaGapaEN": "Konjyosom",
+        "DistrictId": "25"
+    },
+    {
+        "NapaGapaId": "283",
+        "NapaGapaNE": "ललितपुर महानगरपालिका",
+        "NapaGapaEN": "Lalitpur",
+        "DistrictId": "25"
+    },
+    {
+        "NapaGapaId": "284",
+        "NapaGapaNE": "महालक्ष्मी नगरपालिका",
+        "NapaGapaEN": "Mahalaxmi",
+        "DistrictId": "25"
+    },
+    {
+        "NapaGapaId": "285",
+        "NapaGapaNE": "महाङ्काल गाउँपालिका",
+        "NapaGapaEN": "Mahankal",
+        "DistrictId": "25"
+    },
+    {
+        "NapaGapaId": "286",
+        "NapaGapaNE": "भक्तपुर नगरपालिका",
+        "NapaGapaEN": "Bhaktapur",
+        "DistrictId": "26"
+    },
+    {
+        "NapaGapaId": "287",
+        "NapaGapaNE": "चाँगुनारायण नगरपालिका",
+        "NapaGapaEN": "Changunarayan",
+        "DistrictId": "26"
+    },
+    {
+        "NapaGapaId": "288",
+        "NapaGapaNE": "मध्यपुर थिमी नगरपालिका",
+        "NapaGapaEN": "Madhyapur Thimi",
+        "DistrictId": "26"
+    },
+    {
+        "NapaGapaId": "289",
+        "NapaGapaNE": "सूर्यविनायक नगरपालिका",
+        "NapaGapaEN": "Suryabinayak",
+        "DistrictId": "26"
+    },
+    {
+        "NapaGapaId": "290",
+        "NapaGapaNE": "बुढानिलकण्ठ नगरपालिका",
+        "NapaGapaEN": "Budhanilakantha",
+        "DistrictId": "27"
+    },
+    {
+        "NapaGapaId": "291",
+        "NapaGapaNE": "चन्द्रागिरी नगरपालिका",
+        "NapaGapaEN": "Chandragiri",
+        "DistrictId": "27"
+    },
+    {
+        "NapaGapaId": "292",
+        "NapaGapaNE": "दक्षिणकाली नगरपालिका",
+        "NapaGapaEN": "Dakshinkali",
+        "DistrictId": "27"
+    },
+    {
+        "NapaGapaId": "293",
+        "NapaGapaNE": "गोकर्णेश्वर नगरपालिका",
+        "NapaGapaEN": "Gokarneshwor",
+        "DistrictId": "27"
+    },
+    {
+        "NapaGapaId": "294",
+        "NapaGapaNE": "कागेश्वरी मनोहरा नगरपालिका",
+        "NapaGapaEN": "Kageshwori Manahora",
+        "DistrictId": "27"
+    },
+    {
+        "NapaGapaId": "295",
+        "NapaGapaNE": "काठमाण्डौ महानगरपालिका",
+        "NapaGapaEN": "Kathmandu",
+        "DistrictId": "27"
+    },
+    {
+        "NapaGapaId": "296",
+        "NapaGapaNE": "दक्षिणकाली नगरपालिका",
+        "NapaGapaEN": "Kirtipur",
+        "DistrictId": "27"
+    },
+    {
+        "NapaGapaId": "297",
+        "NapaGapaNE": "नागार्जुन नगरपालिका",
+        "NapaGapaEN": "Nagarjun",
+        "DistrictId": "27"
+    },
+    {
+        "NapaGapaId": "298",
+        "NapaGapaNE": "शङ्खरापुर नगरपालिका",
+        "NapaGapaEN": "Shankharapur",
+        "DistrictId": "27"
+    },
+    {
+        "NapaGapaId": "299",
+        "NapaGapaNE": "तारकेश्वर नगरपालिका",
+        "NapaGapaEN": "Tarakeshwor",
+        "DistrictId": "27"
+    },
+    {
+        "NapaGapaId": "300",
+        "NapaGapaNE": "टोखा नगरपालिका",
+        "NapaGapaEN": "Tokha",
+        "DistrictId": "27"
+    },
+    {
+        "NapaGapaId": "301",
+        "NapaGapaNE": "बेलकोटगढी नगरपालिका",
+        "NapaGapaEN": "Belkotgadhi",
+        "DistrictId": "28"
+    },
+    {
+        "NapaGapaId": "302",
+        "NapaGapaNE": "विदुर नगरपालिका",
+        "NapaGapaEN": "Bidur",
+        "DistrictId": "28"
+    },
+    {
+        "NapaGapaId": "303",
+        "NapaGapaNE": "दुप्चेश्वर गाउँपालिका",
+        "NapaGapaEN": "Dupcheshwar",
+        "DistrictId": "28"
+    },
+    {
+        "NapaGapaId": "304",
+        "NapaGapaNE": "ककनी गाउँपालिका",
+        "NapaGapaEN": "Kakani",
+        "DistrictId": "28"
+    },
+    {
+        "NapaGapaId": "305",
+        "NapaGapaNE": "किस्पाङ गाउँपालिका",
+        "NapaGapaEN": "Kispang",
+        "DistrictId": "28"
+    },
+    {
+        "NapaGapaId": "306",
+        "NapaGapaNE": "लिखु  गाउँपालिका",
+        "NapaGapaEN": "Likhu",
+        "DistrictId": "28"
+    },
+    {
+        "NapaGapaId": "307",
+        "NapaGapaNE": "मेघाङ गाउँपालिका",
+        "NapaGapaEN": "Meghang",
+        "DistrictId": "28"
+    },
+    {
+        "NapaGapaId": "308",
+        "NapaGapaNE": "पञ्चकन्या गाउँपालिका",
+        "NapaGapaEN": "Panchakanya",
+        "DistrictId": "28"
+    },
+    {
+        "NapaGapaId": "309",
+        "NapaGapaNE": "शिवपुरी गाउँपालिका",
+        "NapaGapaEN": "Shivapuri",
+        "DistrictId": "28"
+    },
+    {
+        "NapaGapaId": "310",
+        "NapaGapaNE": "सुर्यगढी गाउँपालिका",
+        "NapaGapaEN": "Suryagadhi",
+        "DistrictId": "28"
+    },
+    {
+        "NapaGapaId": "311",
+        "NapaGapaNE": "तादी गाउँपालिका",
+        "NapaGapaEN": "Tadi",
+        "DistrictId": "28"
+    },
+    {
+        "NapaGapaId": "312",
+        "NapaGapaNE": "तारकेश्वर गाउँपालिका",
+        "NapaGapaEN": "Tarkeshwar",
+        "DistrictId": "28"
+    },
+    {
+        "NapaGapaId": "313",
+        "NapaGapaNE": null,
+        "NapaGapaEN": "Shivapuri Watershed and Wildlife Reserve",
+        "DistrictId": "28"
+    },
+    {
+        "NapaGapaId": "314",
+        "NapaGapaNE": null,
+        "NapaGapaEN": "Langtang National Park",
+        "DistrictId": "28"
+    },
+    {
+        "NapaGapaId": "315",
+        "NapaGapaNE": "गोसाईकुण्ड गाउँपालिका",
+        "NapaGapaEN": "Gosaikunda",
+        "DistrictId": "29"
+    },
+    {
+        "NapaGapaId": "316",
+        "NapaGapaNE": "कालिका गाउँपालिका",
+        "NapaGapaEN": "Kalika",
+        "DistrictId": "29"
+    },
+    {
+        "NapaGapaId": "317",
+        "NapaGapaNE": "नौकुण्ड गाउँपालिका",
+        "NapaGapaEN": "Naukunda",
+        "DistrictId": "29"
+    },
+    {
+        "NapaGapaId": "318",
+        "NapaGapaNE": "पार्वतीकुण्ड गाउँपालिका",
+        "NapaGapaEN": "Parbati Kunda",
+        "DistrictId": "29"
+    },
+    {
+        "NapaGapaId": "319",
+        "NapaGapaNE": "उत्तरगया गाउँपालिका",
+        "NapaGapaEN": "Uttargaya",
+        "DistrictId": "29"
+    },
+    {
+        "NapaGapaId": "320",
+        "NapaGapaNE": "बेनीघाट रोराङ्ग गाउँपालिका",
+        "NapaGapaEN": "Benighat Rorang",
+        "DistrictId": "30"
+    },
+    {
+        "NapaGapaId": "321",
+        "NapaGapaNE": "धुनीबेंशी नगरपालिका",
+        "NapaGapaEN": "Dhunibesi",
+        "DistrictId": "30"
+    },
+    {
+        "NapaGapaId": "322",
+        "NapaGapaNE": "गजुरी गाउँपालिका",
+        "NapaGapaEN": "Gajuri",
+        "DistrictId": "30"
+    },
+    {
+        "NapaGapaId": "323",
+        "NapaGapaNE": "गल्छी गाउँपालिका",
+        "NapaGapaEN": "Galchi",
+        "DistrictId": "30"
+    },
+    {
+        "NapaGapaId": "324",
+        "NapaGapaNE": "गङ्गाजमुना गाउँपालिका",
+        "NapaGapaEN": "Gangajamuna",
+        "DistrictId": "30"
+    },
+    {
+        "NapaGapaId": "325",
+        "NapaGapaNE": "ज्वालामूखी गाउँपालिका",
+        "NapaGapaEN": "Jwalamukhi",
+        "DistrictId": "30"
+    },
+    {
+        "NapaGapaId": "326",
+        "NapaGapaNE": "खनियाबास गाउँपालिका",
+        "NapaGapaEN": "Khaniyabash",
+        "DistrictId": "30"
+    },
+    {
+        "NapaGapaId": "327",
+        "NapaGapaNE": "नेत्रावती गाउँपालिका",
+        "NapaGapaEN": "Netrawati",
+        "DistrictId": "30"
+    },
+    {
+        "NapaGapaId": "328",
+        "NapaGapaNE": "निलकण्ठ नगरपालिका",
+        "NapaGapaEN": "Nilakantha",
+        "DistrictId": "30"
+    },
+    {
+        "NapaGapaId": "329",
+        "NapaGapaNE": "रुवी भ्याली गाउँपालिका",
+        "NapaGapaEN": "Rubi Valley",
+        "DistrictId": "30"
+    },
+    {
+        "NapaGapaId": "330",
+        "NapaGapaNE": "सिद्धलेक गाउँपालिका",
+        "NapaGapaEN": "Siddhalek",
+        "DistrictId": "30"
+    },
+    {
+        "NapaGapaId": "331",
+        "NapaGapaNE": "थाक्रे गाउँपालिका",
+        "NapaGapaEN": "Thakre",
+        "DistrictId": "30"
+    },
+    {
+        "NapaGapaId": "332",
+        "NapaGapaNE": "त्रिपुरासुन्दरी गाउँपालिका",
+        "NapaGapaEN": "Tripura Sundari",
+        "DistrictId": "30"
+    },
+    {
+        "NapaGapaId": "333",
+        "NapaGapaNE": "बागमती नगरपालिका",
+        "NapaGapaEN": "Bagmati",
+        "DistrictId": "31"
+    },
+    {
+        "NapaGapaId": "334",
+        "NapaGapaNE": "बकैया गाउँपालिका",
+        "NapaGapaEN": "Bakaiya",
+        "DistrictId": "31"
+    },
+    {
+        "NapaGapaId": "335",
+        "NapaGapaNE": "भीमफेदी गाउँपालिका",
+        "NapaGapaEN": "Bhimphedi",
+        "DistrictId": "31"
+    },
+    {
+        "NapaGapaId": "336",
+        "NapaGapaNE": "हेटौडा उपमहानगरपालिका",
+        "NapaGapaEN": "Hetauda",
+        "DistrictId": "31"
+    },
+    {
+        "NapaGapaId": "337",
+        "NapaGapaNE": "ईन्द्र सरोवर गाउँपालिका",
+        "NapaGapaEN": "Indrasarowar",
+        "DistrictId": "31"
+    },
+    {
+        "NapaGapaId": "338",
+        "NapaGapaNE": "कैलाश गाउँपालिका",
+        "NapaGapaEN": "Kailash",
+        "DistrictId": "31"
+    },
+    {
+        "NapaGapaId": "339",
+        "NapaGapaNE": "मकवानपुरगढी गाउँपालिका",
+        "NapaGapaEN": "Makawanpurgadhi",
+        "DistrictId": "31"
+    },
+    {
+        "NapaGapaId": "340",
+        "NapaGapaNE": "मनहरी गाउँपालिका",
+        "NapaGapaEN": "Manahari",
+        "DistrictId": "31"
+    },
+    {
+        "NapaGapaId": "341",
+        "NapaGapaNE": "राक्सिराङ्ग गाउँपालिका",
+        "NapaGapaEN": "Raksirang",
+        "DistrictId": "31"
+    },
+    {
+        "NapaGapaId": "342",
+        "NapaGapaNE": "थाहा नगरपालिका",
+        "NapaGapaEN": "Thaha",
+        "DistrictId": "31"
+    },
+    {
+        "NapaGapaId": "343",
+        "NapaGapaNE": null,
+        "NapaGapaEN": "Parsa Wildlife Reserve",
+        "DistrictId": "31"
+    },
+    {
+        "NapaGapaId": "344",
+        "NapaGapaNE": null,
+        "NapaGapaEN": "Chitawan National Park",
+        "DistrictId": "31"
+    },
+    {
+        "NapaGapaId": "345",
+        "NapaGapaNE": "बौधीमाई नगरपालिका",
+        "NapaGapaEN": "Baudhimai",
+        "DistrictId": "32"
+    },
+    {
+        "NapaGapaId": "346",
+        "NapaGapaNE": "वृन्दावन नगरपालिका",
+        "NapaGapaEN": "Brindaban",
+        "DistrictId": "32"
+    },
+    {
+        "NapaGapaId": "347",
+        "NapaGapaNE": "चन्द्रपुर नगरपालिका",
+        "NapaGapaEN": "Chandrapur",
+        "DistrictId": "32"
+    },
+    {
+        "NapaGapaId": "348",
+        "NapaGapaNE": "देवाही गोनाही   नगरपालिका",
+        "NapaGapaEN": "Dewahhi Gonahi",
+        "DistrictId": "32"
+    },
+    {
+        "NapaGapaId": "349",
+        "NapaGapaNE": "दुर्गा भगवती गाउँपालिका",
+        "NapaGapaEN": "Durga Bhagwati",
+        "DistrictId": "32"
+    },
+    {
+        "NapaGapaId": "350",
+        "NapaGapaNE": "गढीमाई नगरपालिका",
+        "NapaGapaEN": "Gadhimai",
+        "DistrictId": "32"
+    },
+    {
+        "NapaGapaId": "351",
+        "NapaGapaNE": "गरुडा नगरपालिका",
+        "NapaGapaEN": "Garuda",
+        "DistrictId": "32"
+    },
+    {
+        "NapaGapaId": "352",
+        "NapaGapaNE": "गौर नगरपालिका",
+        "NapaGapaEN": "Gaur",
+        "DistrictId": "32"
+    },
+    {
+        "NapaGapaId": "353",
+        "NapaGapaNE": "गुजरा नगरपालिका",
+        "NapaGapaEN": "Gujara",
+        "DistrictId": "32"
+    },
+    {
+        "NapaGapaId": "354",
+        "NapaGapaNE": "ईशनाथ नगरपालिका",
+        "NapaGapaEN": "Ishanath",
+        "DistrictId": "32"
+    },
+    {
+        "NapaGapaId": "355",
+        "NapaGapaNE": "कटहरिया नगरपालिका",
+        "NapaGapaEN": "Katahariya",
+        "DistrictId": "32"
+    },
+    {
+        "NapaGapaId": "356",
+        "NapaGapaNE": "माधव नारायण नगरपालिका",
+        "NapaGapaEN": "Madhav Narayan",
+        "DistrictId": "32"
+    },
+    {
+        "NapaGapaId": "357",
+        "NapaGapaNE": "मौलापुर नगरपालिका",
+        "NapaGapaEN": "Maulapur",
+        "DistrictId": "32"
+    },
+    {
+        "NapaGapaId": "358",
+        "NapaGapaNE": "परोहा नगरपालिका",
+        "NapaGapaEN": "Paroha",
+        "DistrictId": "32"
+    },
+    {
+        "NapaGapaId": "359",
+        "NapaGapaNE": "फतुवा बिजयपुर नगरपालिका",
+        "NapaGapaEN": "Phatuwa Bijayapur",
+        "DistrictId": "32"
+    },
+    {
+        "NapaGapaId": "360",
+        "NapaGapaNE": "राजदेवी नगरपालिका",
+        "NapaGapaEN": "Rajdevi",
+        "DistrictId": "32"
+    },
+    {
+        "NapaGapaId": "361",
+        "NapaGapaNE": "राजपुर नगरपालिका",
+        "NapaGapaEN": "Rajpur",
+        "DistrictId": "32"
+    },
+    {
+        "NapaGapaId": "362",
+        "NapaGapaNE": "यमुनामाई  गाउँपालिका",
+        "NapaGapaEN": "Yemunamai",
+        "DistrictId": "32"
+    },
+    {
+        "NapaGapaId": "363",
+        "NapaGapaNE": "आदर्श कोटवाल गाउँपालिका",
+        "NapaGapaEN": "Adarshkotwal",
+        "DistrictId": "33"
+    },
+    {
+        "NapaGapaId": "364",
+        "NapaGapaNE": "बारागढी गाउँपालिका",
+        "NapaGapaEN": "Baragadhi",
+        "DistrictId": "33"
+    },
+    {
+        "NapaGapaId": "365",
+        "NapaGapaNE": "विश्रामपुर गाउँपालिका",
+        "NapaGapaEN": "Bishrampur",
+        "DistrictId": "33"
+    },
+    {
+        "NapaGapaId": "366",
+        "NapaGapaNE": "देवताल गाउँपालिका",
+        "NapaGapaEN": "Devtal",
+        "DistrictId": "33"
+    },
+    {
+        "NapaGapaId": "367",
+        "NapaGapaNE": "जीतपुरसिमरा उपमहानगरपालिका",
+        "NapaGapaEN": "Jitpur Simara",
+        "DistrictId": "33"
+    },
+    {
+        "NapaGapaId": "368",
+        "NapaGapaNE": "कलैया उपमहानगरपालिका",
+        "NapaGapaEN": "Kalaiya",
+        "DistrictId": "33"
+    },
+    {
+        "NapaGapaId": "369",
+        "NapaGapaNE": "करैयामाई गाउँपालिका",
+        "NapaGapaEN": "Karaiyamai",
+        "DistrictId": "33"
+    },
+    {
+        "NapaGapaId": "370",
+        "NapaGapaNE": "कोल्हवी नगरपालिका",
+        "NapaGapaEN": "Kolhabi",
+        "DistrictId": "33"
+    },
+    {
+        "NapaGapaId": "371",
+        "NapaGapaNE": "महागढीमाई नगरपालिका",
+        "NapaGapaEN": "Mahagadhimai",
+        "DistrictId": "33"
+    },
+    {
+        "NapaGapaId": "372",
+        "NapaGapaNE": "निजगढ नगरपालिका",
+        "NapaGapaEN": "Nijgadh",
+        "DistrictId": "33"
+    },
+    {
+        "NapaGapaId": "373",
+        "NapaGapaNE": "पचरौता नगरपालिका",
+        "NapaGapaEN": "Pacharauta",
+        "DistrictId": "33"
+    },
+    {
+        "NapaGapaId": "374",
+        "NapaGapaNE": "परवानीपुर गाउँपालिका",
+        "NapaGapaEN": "Parwanipur",
+        "DistrictId": "33"
+    },
+    {
+        "NapaGapaId": "375",
+        "NapaGapaNE": "फेटा गाउँपालिका",
+        "NapaGapaEN": "Pheta",
+        "DistrictId": "33"
+    },
+    {
+        "NapaGapaId": "376",
+        "NapaGapaNE": "प्रसौनी गाउँपालिक",
+        "NapaGapaEN": "Prasauni",
+        "DistrictId": "33"
+    },
+    {
+        "NapaGapaId": "377",
+        "NapaGapaNE": "सिम्रौनगढ नगरपालिका",
+        "NapaGapaEN": "Simraungadh",
+        "DistrictId": "33"
+    },
+    {
+        "NapaGapaId": "378",
+        "NapaGapaNE": "सुवर्ण गाउँपालिका",
+        "NapaGapaEN": "Suwarna",
+        "DistrictId": "33"
+    },
+    {
+        "NapaGapaId": "379",
+        "NapaGapaNE": null,
+        "NapaGapaEN": "Parsa Wildlife Reserve",
+        "DistrictId": "33"
+    },
+    {
+        "NapaGapaId": "380",
+        "NapaGapaNE": "बहुदरमाई नगरपालिका",
+        "NapaGapaEN": "Bahudaramai",
+        "DistrictId": "34"
+    },
+    {
+        "NapaGapaId": "381",
+        "NapaGapaNE": "बिन्दबासिनी गाउँपालिका",
+        "NapaGapaEN": "Bindabasini",
+        "DistrictId": "34"
+    },
+    {
+        "NapaGapaId": "382",
+        "NapaGapaNE": "बिरगंज महानगरपालिका",
+        "NapaGapaEN": "Birgunj",
+        "DistrictId": "34"
+    },
+    {
+        "NapaGapaId": "383",
+        "NapaGapaNE": "छिपहरमाई गाउँपालिका",
+        "NapaGapaEN": "Chhipaharmai",
+        "DistrictId": "34"
+    },
+    {
+        "NapaGapaId": "384",
+        "NapaGapaNE": "धोबीनी गाउँपालिका",
+        "NapaGapaEN": "Dhobini",
+        "DistrictId": "34"
+    },
+    {
+        "NapaGapaId": "385",
+        "NapaGapaNE": "जगरनाथपुर गाउँपालिका",
+        "NapaGapaEN": "Jagarnathpur",
+        "DistrictId": "34"
+    },
+    {
+        "NapaGapaId": "386",
+        "NapaGapaNE": "जिराभवानी गाउँपालिका",
+        "NapaGapaEN": "Jirabhawani",
+        "DistrictId": "34"
+    },
+    {
+        "NapaGapaId": "387",
+        "NapaGapaNE": "कालिकामाई गाउँपालिका",
+        "NapaGapaEN": "Kalikamai",
+        "DistrictId": "34"
+    },
+    {
+        "NapaGapaId": "388",
+        "NapaGapaNE": "पकाहा मैनपुर गाउँपालिका",
+        "NapaGapaEN": "Pakahamainpur",
+        "DistrictId": "34"
+    },
+    {
+        "NapaGapaId": "389",
+        "NapaGapaNE": "पर्सागढी नगरपालिका",
+        "NapaGapaEN": "Parsagadhi",
+        "DistrictId": "34"
+    },
+    {
+        "NapaGapaId": "390",
+        "NapaGapaNE": "पटेर्वा सुगौली गाउँपालिका",
+        "NapaGapaEN": "Paterwasugauli",
+        "DistrictId": "34"
+    },
+    {
+        "NapaGapaId": "391",
+        "NapaGapaNE": "पोखरिया नगरपालिका",
+        "NapaGapaEN": "Pokhariya",
+        "DistrictId": "34"
+    },
+    {
+        "NapaGapaId": "392",
+        "NapaGapaNE": "सखुवा प्रसौनी गाउँपालिका",
+        "NapaGapaEN": "SakhuwaPrasauni",
+        "DistrictId": "34"
+    },
+    {
+        "NapaGapaId": "393",
+        "NapaGapaNE": "ठोरी गाउँपालिका",
+        "NapaGapaEN": "Thori",
+        "DistrictId": "34"
+    },
+    {
+        "NapaGapaId": "394",
+        "NapaGapaNE": null,
+        "NapaGapaEN": "Chitwan National Park",
+        "DistrictId": "34"
+    },
+    {
+        "NapaGapaId": "395",
+        "NapaGapaNE": "भरतपुर महानगरपालिका",
+        "NapaGapaEN": "Bharatpur",
+        "DistrictId": "35"
+    },
+    {
+        "NapaGapaId": "396",
+        "NapaGapaNE": "इच्छाकामना गाउँपालिका",
+        "NapaGapaEN": "Ichchhyakamana",
+        "DistrictId": "35"
+    },
+    {
+        "NapaGapaId": "397",
+        "NapaGapaNE": "कालिका गाउँपालिका",
+        "NapaGapaEN": "Kalika",
+        "DistrictId": "35"
+    },
+    {
+        "NapaGapaId": "398",
+        "NapaGapaNE": "खैरहनी नगरपालिका",
+        "NapaGapaEN": "Khairahani",
+        "DistrictId": "35"
+    },
+    {
+        "NapaGapaId": "399",
+        "NapaGapaNE": "मादी नगरपालिका",
+        "NapaGapaEN": "Madi",
+        "DistrictId": "35"
+    },
+    {
+        "NapaGapaId": "400",
+        "NapaGapaNE": "राप्ती नगरपालिका",
+        "NapaGapaEN": "Rapti",
+        "DistrictId": "35"
+    },
+    {
+        "NapaGapaId": "401",
+        "NapaGapaNE": "रत्ननगर नगरपालिका",
+        "NapaGapaEN": "Ratnanagar",
+        "DistrictId": "35"
+    },
+    {
+        "NapaGapaId": "402",
+        "NapaGapaNE": null,
+        "NapaGapaEN": "Chitawan National Park",
+        "DistrictId": "35"
+    },
+    {
+        "NapaGapaId": "403",
+        "NapaGapaNE": "आरूघाट गाउँपालिका",
+        "NapaGapaEN": "Aarughat",
+        "DistrictId": "36"
+    },
+    {
+        "NapaGapaId": "404",
+        "NapaGapaNE": "अजिरकोट गाउँपालिका",
+        "NapaGapaEN": "Ajirkot",
+        "DistrictId": "36"
+    },
+    {
+        "NapaGapaId": "405",
+        "NapaGapaNE": "भिमसेन गाउँपालिका",
+        "NapaGapaEN": "Bhimsen",
+        "DistrictId": "36"
+    },
+    {
+        "NapaGapaId": "406",
+        "NapaGapaNE": "चुम नुव्री गाउँपालिका",
+        "NapaGapaEN": "Chum Nubri",
+        "DistrictId": "36"
+    },
+    {
+        "NapaGapaId": "407",
+        "NapaGapaNE": "धार्चे गाउँपालिका",
+        "NapaGapaEN": "Dharche",
+        "DistrictId": "36"
+    },
+    {
+        "NapaGapaId": "408",
+        "NapaGapaNE": "गण्डकी गाउँपालिका",
+        "NapaGapaEN": "Gandaki",
+        "DistrictId": "36"
+    },
+    {
+        "NapaGapaId": "409",
+        "NapaGapaNE": "गोरखा नगरपालिका",
+        "NapaGapaEN": "Gorkha",
+        "DistrictId": "36"
+    },
+    {
+        "NapaGapaId": "410",
+        "NapaGapaNE": "पालुङटार नगरपालिका",
+        "NapaGapaEN": "Palungtar",
+        "DistrictId": "36"
+    },
+    {
+        "NapaGapaId": "411",
+        "NapaGapaNE": "शहिद लखन गाउँपालिका",
+        "NapaGapaEN": "Sahid Lakhan",
+        "DistrictId": "36"
+    },
+    {
+        "NapaGapaId": "412",
+        "NapaGapaNE": "सिरानचोक गाउँपालिका",
+        "NapaGapaEN": "Siranchok",
+        "DistrictId": "36"
+    },
+    {
+        "NapaGapaId": "413",
+        "NapaGapaNE": "सुलीकोट गाउँपालिका",
+        "NapaGapaEN": "Sulikot",
+        "DistrictId": "36"
+    },
+    {
+        "NapaGapaId": "414",
+        "NapaGapaNE": "बेसीशहर नगरपालिका",
+        "NapaGapaEN": "Besishahar",
+        "DistrictId": "37"
+    },
+    {
+        "NapaGapaId": "415",
+        "NapaGapaNE": "दोर्दी गाउँपालिका",
+        "NapaGapaEN": "Dordi",
+        "DistrictId": "37"
+    },
+    {
+        "NapaGapaId": "416",
+        "NapaGapaNE": "दूधपोखरी गाउँपालिका",
+        "NapaGapaEN": "Dudhpokhari",
+        "DistrictId": "37"
+    },
+    {
+        "NapaGapaId": "417",
+        "NapaGapaNE": "क्व्होलासोथार गाउँपालिका",
+        "NapaGapaEN": "Kwholasothar",
+        "DistrictId": "37"
+    },
+    {
+        "NapaGapaId": "418",
+        "NapaGapaNE": "मध्यनेपाल नगरपालिका",
+        "NapaGapaEN": "MadhyaNepal",
+        "DistrictId": "37"
+    },
+    {
+        "NapaGapaId": "419",
+        "NapaGapaNE": "मर्स्याङदी गाउँपालिका",
+        "NapaGapaEN": "Marsyangdi",
+        "DistrictId": "37"
+    },
+    {
+        "NapaGapaId": "420",
+        "NapaGapaNE": "रार्इनास नगरपालिका",
+        "NapaGapaEN": "Rainas",
+        "DistrictId": "37"
+    },
+    {
+        "NapaGapaId": "421",
+        "NapaGapaNE": "सुन्दरबजार नगरपालिका",
+        "NapaGapaEN": "Sundarbazar",
+        "DistrictId": "37"
+    },
+    {
+        "NapaGapaId": "422",
+        "NapaGapaNE": "आँबुखैरेनी गाउँपालिका",
+        "NapaGapaEN": "Anbukhaireni",
+        "DistrictId": "38"
+    },
+    {
+        "NapaGapaId": "423",
+        "NapaGapaNE": "बन्दिपुर गाउँपालिका",
+        "NapaGapaEN": "Bandipur",
+        "DistrictId": "38"
+    },
+    {
+        "NapaGapaId": "424",
+        "NapaGapaNE": "भानु नगरपालिका",
+        "NapaGapaEN": "Bhanu",
+        "DistrictId": "38"
+    },
+    {
+        "NapaGapaId": "425",
+        "NapaGapaNE": "भिमाद नगरपालिका",
+        "NapaGapaEN": "Bhimad",
+        "DistrictId": "38"
+    },
+    {
+        "NapaGapaId": "426",
+        "NapaGapaNE": "व्यास नगरपालिका",
+        "NapaGapaEN": "Byas",
+        "DistrictId": "38"
+    },
+    {
+        "NapaGapaId": "427",
+        "NapaGapaNE": "देवघाट गाउँपालिका",
+        "NapaGapaEN": "Devghat",
+        "DistrictId": "38"
+    },
+    {
+        "NapaGapaId": "428",
+        "NapaGapaNE": "घिरिङ गाउँपालिका",
+        "NapaGapaEN": "Ghiring",
+        "DistrictId": "38"
+    },
+    {
+        "NapaGapaId": "429",
+        "NapaGapaNE": "म्याग्दे गाउँपालिका",
+        "NapaGapaEN": "Myagde",
+        "DistrictId": "38"
+    },
+    {
+        "NapaGapaId": "430",
+        "NapaGapaNE": "ऋषिङ्ग गाउँपालिका",
+        "NapaGapaEN": "Rhishing",
+        "DistrictId": "38"
+    },
+    {
+        "NapaGapaId": "431",
+        "NapaGapaNE": "शुक्लागण्डकी नगरपालिका",
+        "NapaGapaEN": "Shuklagandaki",
+        "DistrictId": "38"
+    },
+    {
+        "NapaGapaId": "432",
+        "NapaGapaNE": "आँधीखोला गाउँपालिका",
+        "NapaGapaEN": "Aandhikhola",
+        "DistrictId": "39"
+    },
+    {
+        "NapaGapaId": "433",
+        "NapaGapaNE": "अर्जुन चौपारी गाउँपालिका",
+        "NapaGapaEN": "Arjunchaupari",
+        "DistrictId": "39"
+    },
+    {
+        "NapaGapaId": "434",
+        "NapaGapaNE": "भिरकोट नगरपालिका",
+        "NapaGapaEN": "Bhirkot",
+        "DistrictId": "39"
+    },
+    {
+        "NapaGapaId": "435",
+        "NapaGapaNE": "विरुवा गाउँपालिका",
+        "NapaGapaEN": "Biruwa",
+        "DistrictId": "39"
+    },
+    {
+        "NapaGapaId": "436",
+        "NapaGapaNE": "चापाकोट नगरपालिका",
+        "NapaGapaEN": "Chapakot",
+        "DistrictId": "39"
+    },
+    {
+        "NapaGapaId": "437",
+        "NapaGapaNE": "गल्याङ नगरपालिका",
+        "NapaGapaEN": "Galyang",
+        "DistrictId": "39"
+    },
+    {
+        "NapaGapaId": "438",
+        "NapaGapaNE": "हरीनास गाउँपालिका",
+        "NapaGapaEN": "Harinas",
+        "DistrictId": "39"
+    },
+    {
+        "NapaGapaId": "439",
+        "NapaGapaNE": "कालीगण्डकी गाउँपालिका",
+        "NapaGapaEN": "Kaligandagi",
+        "DistrictId": "39"
+    },
+    {
+        "NapaGapaId": "440",
+        "NapaGapaNE": "फेदीखोला गाउँपालिका",
+        "NapaGapaEN": "Phedikhola",
+        "DistrictId": "39"
+    },
+    {
+        "NapaGapaId": "441",
+        "NapaGapaNE": "पुतलीबजार नगरपालिका",
+        "NapaGapaEN": "Putalibazar",
+        "DistrictId": "39"
+    },
+    {
+        "NapaGapaId": "442",
+        "NapaGapaNE": "वालिङ नगरपालिका",
+        "NapaGapaEN": "Waling",
+        "DistrictId": "39"
+    },
+    {
+        "NapaGapaId": "443",
+        "NapaGapaNE": "अन्नपुर्ण गाउँपालिका",
+        "NapaGapaEN": "Annapurna",
+        "DistrictId": "40"
+    },
+    {
+        "NapaGapaId": "444",
+        "NapaGapaNE": "माछापुछ्रे गाउँपालिका",
+        "NapaGapaEN": "Machhapuchchhre",
+        "DistrictId": "40"
+    },
+    {
+        "NapaGapaId": "445",
+        "NapaGapaNE": "मादी नगरपालिका",
+        "NapaGapaEN": "Madi",
+        "DistrictId": "40"
+    },
+    {
+        "NapaGapaId": "446",
+        "NapaGapaNE": "पोखरा लेखनाथ महानगरपालिका",
+        "NapaGapaEN": "Pokhara Lekhnath",
+        "DistrictId": "40"
+    },
+    {
+        "NapaGapaId": "447",
+        "NapaGapaNE": "रूपा गाउँपालिका",
+        "NapaGapaEN": "Rupa",
+        "DistrictId": "40"
+    },
+    {
+        "NapaGapaId": "448",
+        "NapaGapaNE": "चामे गाउँपालिका",
+        "NapaGapaEN": "Chame",
+        "DistrictId": "41"
+    },
+    {
+        "NapaGapaId": "449",
+        "NapaGapaNE": "नारफू गाउँपालिका",
+        "NapaGapaEN": "Narphu",
+        "DistrictId": "41"
+    },
+    {
+        "NapaGapaId": "450",
+        "NapaGapaNE": "नाशोङ गाउँपालिका",
+        "NapaGapaEN": "Nashong",
+        "DistrictId": "41"
+    },
+    {
+        "NapaGapaId": "451",
+        "NapaGapaNE": "नेस्याङ गाउँपालिका",
+        "NapaGapaEN": "Neshyang",
+        "DistrictId": "41"
+    },
+    {
+        "NapaGapaId": "452",
+        "NapaGapaNE": "बाह्गाउँ मुक्तिक्षेत्र गाउँपालिका",
+        "NapaGapaEN": "Barhagaun Muktikhsetra",
+        "DistrictId": "42"
+    },
+    {
+        "NapaGapaId": "453",
+        "NapaGapaNE": "दालोमे गाउँपालिका",
+        "NapaGapaEN": "Dalome",
+        "DistrictId": "42"
+    },
+    {
+        "NapaGapaId": "454",
+        "NapaGapaNE": "घरपझोङ गाउँपालिका",
+        "NapaGapaEN": "Gharapjhong",
+        "DistrictId": "42"
+    },
+    {
+        "NapaGapaId": "455",
+        "NapaGapaNE": "लोमन्थाङ गाउँपालिका",
+        "NapaGapaEN": "Lomanthang",
+        "DistrictId": "42"
+    },
+    {
+        "NapaGapaId": "456",
+        "NapaGapaNE": "थासाङ गाउँपालिका",
+        "NapaGapaEN": "Thasang",
+        "DistrictId": "42"
+    },
+    {
+        "NapaGapaId": "457",
+        "NapaGapaNE": "अन्नपुर्ण गाउँपालिका",
+        "NapaGapaEN": "Annapurna",
+        "DistrictId": "43"
+    },
+    {
+        "NapaGapaId": "458",
+        "NapaGapaNE": "बेनी  नगरपालिका",
+        "NapaGapaEN": "Beni",
+        "DistrictId": "43"
+    },
+    {
+        "NapaGapaId": "459",
+        "NapaGapaNE": "धवलागिरी गाउँपालिका",
+        "NapaGapaEN": "Dhaulagiri",
+        "DistrictId": "43"
+    },
+    {
+        "NapaGapaId": "460",
+        "NapaGapaNE": "मालिका गाउँपालिका",
+        "NapaGapaEN": "Malika",
+        "DistrictId": "43"
+    },
+    {
+        "NapaGapaId": "461",
+        "NapaGapaNE": "मंगला गाउँपालिका",
+        "NapaGapaEN": "Mangala",
+        "DistrictId": "43"
+    },
+    {
+        "NapaGapaId": "462",
+        "NapaGapaNE": "रघुगंगा गाउँपालिका",
+        "NapaGapaEN": "Raghuganga",
+        "DistrictId": "43"
+    },
+    {
+        "NapaGapaId": "463",
+        "NapaGapaNE": null,
+        "NapaGapaEN": "Dhorpatan Hunting Reserve",
+        "DistrictId": "43"
+    },
+    {
+        "NapaGapaId": "464",
+        "NapaGapaNE": "विहादी गाउँपालिका",
+        "NapaGapaEN": "Bihadi",
+        "DistrictId": "44"
+    },
+    {
+        "NapaGapaId": "465",
+        "NapaGapaNE": "जलजला गाउँपालिका",
+        "NapaGapaEN": "Jaljala",
+        "DistrictId": "44"
+    },
+    {
+        "NapaGapaId": "466",
+        "NapaGapaNE": "कुश्मा नगरपालिका",
+        "NapaGapaEN": "Kushma",
+        "DistrictId": "44"
+    },
+    {
+        "NapaGapaId": "467",
+        "NapaGapaNE": "महाशिला गाउँपालिका",
+        "NapaGapaEN": "Mahashila",
+        "DistrictId": "44"
+    },
+    {
+        "NapaGapaId": "468",
+        "NapaGapaNE": "मोदी गाउँपालिका",
+        "NapaGapaEN": "Modi",
+        "DistrictId": "44"
+    },
+    {
+        "NapaGapaId": "469",
+        "NapaGapaNE": "पैयूं गाउँपालिका",
+        "NapaGapaEN": "Painyu",
+        "DistrictId": "44"
+    },
+    {
+        "NapaGapaId": "470",
+        "NapaGapaNE": "फलेवास नगरपालिका",
+        "NapaGapaEN": "Phalebas",
+        "DistrictId": "44"
+    },
+    {
+        "NapaGapaId": "471",
+        "NapaGapaNE": "वडिगाड गाउँपालिका",
+        "NapaGapaEN": "Badigad",
+        "DistrictId": "45"
+    },
+    {
+        "NapaGapaId": "472",
+        "NapaGapaNE": "बागलुङ नगरपालिका",
+        "NapaGapaEN": "Baglung",
+        "DistrictId": "45"
+    },
+    {
+        "NapaGapaId": "473",
+        "NapaGapaNE": "वरेङ गाउँपालिका",
+        "NapaGapaEN": "Bareng",
+        "DistrictId": "45"
+    },
+    {
+        "NapaGapaId": "474",
+        "NapaGapaNE": "ढोरपाटन नगरपालिका",
+        "NapaGapaEN": "Dhorpatan",
+        "DistrictId": "45"
+    },
+    {
+        "NapaGapaId": "475",
+        "NapaGapaNE": "गल्कोट नगरपालिका",
+        "NapaGapaEN": "Galkot",
+        "DistrictId": "45"
+    },
+    {
+        "NapaGapaId": "476",
+        "NapaGapaNE": "जैमुनी नगरपालिका",
+        "NapaGapaEN": "Jaimuni",
+        "DistrictId": "45"
+    },
+    {
+        "NapaGapaId": "477",
+        "NapaGapaNE": "काठेखोला गाउँपालिका",
+        "NapaGapaEN": "Kanthekhola",
+        "DistrictId": "45"
+    },
+    {
+        "NapaGapaId": "478",
+        "NapaGapaNE": "निसीखोला गाउँपालिका",
+        "NapaGapaEN": "Nisikhola",
+        "DistrictId": "45"
+    },
+    {
+        "NapaGapaId": "479",
+        "NapaGapaNE": "तमानखोला गाउँपालिका",
+        "NapaGapaEN": "Taman Khola",
+        "DistrictId": "45"
+    },
+    {
+        "NapaGapaId": "480",
+        "NapaGapaNE": "ताराखोला गाउँपालिका",
+        "NapaGapaEN": "Tara Khola",
+        "DistrictId": "45"
+    },
+    {
+        "NapaGapaId": "481",
+        "NapaGapaNE": null,
+        "NapaGapaEN": "Dhorpatan Hunting Reserve",
+        "DistrictId": "45"
+    },
+    {
+        "NapaGapaId": "482",
+        "NapaGapaNE": "चन्द्रकोट गाउँपालिका",
+        "NapaGapaEN": "Chandrakot",
+        "DistrictId": "46"
+    },
+    {
+        "NapaGapaId": "483",
+        "NapaGapaNE": "छत्रकोट गाउँपालिका",
+        "NapaGapaEN": "Chatrakot",
+        "DistrictId": "46"
+    },
+    {
+        "NapaGapaId": "484",
+        "NapaGapaNE": "धुर्कोट गाउँपालिका",
+        "NapaGapaEN": "Dhurkot",
+        "DistrictId": "46"
+    },
+    {
+        "NapaGapaId": "485",
+        "NapaGapaNE": "गुल्मीदरवार गाउँपालिका",
+        "NapaGapaEN": "Gulmidarbar",
+        "DistrictId": "46"
+    },
+    {
+        "NapaGapaId": "486",
+        "NapaGapaNE": "ईस्मा गाउँपालिका",
+        "NapaGapaEN": "Isma",
+        "DistrictId": "46"
+    },
+    {
+        "NapaGapaId": "487",
+        "NapaGapaNE": "कालीगण्डकी गाउँपालिका",
+        "NapaGapaEN": "Kaligandaki",
+        "DistrictId": "46"
+    },
+    {
+        "NapaGapaId": "488",
+        "NapaGapaNE": "मदाने गाउँपालिका",
+        "NapaGapaEN": "Madane",
+        "DistrictId": "46"
+    },
+    {
+        "NapaGapaId": "489",
+        "NapaGapaNE": "मालिका गाउँपालिका",
+        "NapaGapaEN": "Malika",
+        "DistrictId": "46"
+    },
+    {
+        "NapaGapaId": "490",
+        "NapaGapaNE": "मुसिकोट नगरपालिका",
+        "NapaGapaEN": "Musikot",
+        "DistrictId": "46"
+    },
+    {
+        "NapaGapaId": "491",
+        "NapaGapaNE": "रेसुङ्गा नगरपालिका",
+        "NapaGapaEN": "Resunga",
+        "DistrictId": "46"
+    },
+    {
+        "NapaGapaId": "492",
+        "NapaGapaNE": "रुरु गाउँपालिका",
+        "NapaGapaEN": "Ruru",
+        "DistrictId": "46"
+    },
+    {
+        "NapaGapaId": "493",
+        "NapaGapaNE": "सत्यवती गाउँपालिका",
+        "NapaGapaEN": "Satyawati",
+        "DistrictId": "46"
+    },
+    {
+        "NapaGapaId": "494",
+        "NapaGapaNE": "बगनासकाली गाउँपालिका",
+        "NapaGapaEN": "Bagnaskali",
+        "DistrictId": "47"
+    },
+    {
+        "NapaGapaId": "495",
+        "NapaGapaNE": "माथागढी गाउँपालिका",
+        "NapaGapaEN": "Mathagadhi",
+        "DistrictId": "47"
+    },
+    {
+        "NapaGapaId": "496",
+        "NapaGapaNE": "निस्दी गाउँपालिका",
+        "NapaGapaEN": "Nisdi",
+        "DistrictId": "47"
+    },
+    {
+        "NapaGapaId": "497",
+        "NapaGapaNE": "पूर्वखोला गाउँपालिका",
+        "NapaGapaEN": "Purbakhola",
+        "DistrictId": "47"
+    },
+    {
+        "NapaGapaId": "498",
+        "NapaGapaNE": "रैनादेवी छहरा गाउँपालिका",
+        "NapaGapaEN": "Rainadevi Chhahara",
+        "DistrictId": "47"
+    },
+    {
+        "NapaGapaId": "499",
+        "NapaGapaNE": "रम्भा गाउँपालिका",
+        "NapaGapaEN": "Rambha",
+        "DistrictId": "47"
+    },
+    {
+        "NapaGapaId": "500",
+        "NapaGapaNE": "रामपुर नगरपालिका",
+        "NapaGapaEN": "Rampur",
+        "DistrictId": "47"
+    },
+    {
+        "NapaGapaId": "501",
+        "NapaGapaNE": "रिब्दिकोट गाउँपालिका",
+        "NapaGapaEN": "Ribdikot",
+        "DistrictId": "47"
+    },
+    {
+        "NapaGapaId": "502",
+        "NapaGapaNE": "तानसेन नगरपालिका",
+        "NapaGapaEN": "Tansen",
+        "DistrictId": "47"
+    },
+    {
+        "NapaGapaId": "503",
+        "NapaGapaNE": "तिनाउ गाउँपालिका",
+        "NapaGapaEN": "Tinau",
+        "DistrictId": "47"
+    },
+    {
+        "NapaGapaId": "504",
+        "NapaGapaNE": "बर्दघाट नगरपालिका",
+        "NapaGapaEN": "Bardaghat",
+        "DistrictId": "48"
+    },
+    {
+        "NapaGapaId": "505",
+        "NapaGapaNE": "पाल्हीनन्दन गाउँपालिका",
+        "NapaGapaEN": "Palhi Nandan",
+        "DistrictId": "48"
+    },
+    {
+        "NapaGapaId": "506",
+        "NapaGapaNE": "प्रतापपुर गाउँपालिका",
+        "NapaGapaEN": "Pratappur",
+        "DistrictId": "48"
+    },
+    {
+        "NapaGapaId": "507",
+        "NapaGapaNE": "रामग्राम नगरपालिका",
+        "NapaGapaEN": "Ramgram",
+        "DistrictId": "48"
+    },
+    {
+        "NapaGapaId": "508",
+        "NapaGapaNE": "सरावल गाउँपालिका",
+        "NapaGapaEN": "Sarawal",
+        "DistrictId": "48"
+    },
+    {
+        "NapaGapaId": "509",
+        "NapaGapaNE": "सुनवल नगरपालिका",
+        "NapaGapaEN": "Sunwal",
+        "DistrictId": "48"
+    },
+    {
+        "NapaGapaId": "510",
+        "NapaGapaNE": "सुस्ता गाउँपालिका",
+        "NapaGapaEN": "Susta",
+        "DistrictId": "48"
+    },
+    {
+        "NapaGapaId": "511",
+        "NapaGapaNE": "बुटवल उपमहानगरपालिका",
+        "NapaGapaEN": "Butwal",
+        "DistrictId": "49"
+    },
+    {
+        "NapaGapaId": "512",
+        "NapaGapaNE": "देवदह नगरपालिका",
+        "NapaGapaEN": "Devdaha",
+        "DistrictId": "49"
+    },
+    {
+        "NapaGapaId": "513",
+        "NapaGapaNE": "गैडहवा गाउँपालिका",
+        "NapaGapaEN": "Gaidahawa",
+        "DistrictId": "49"
+    },
+    {
+        "NapaGapaId": "514",
+        "NapaGapaNE": "कंचन गाउँपालिका",
+        "NapaGapaEN": "Kanchan",
+        "DistrictId": "49"
+    },
+    {
+        "NapaGapaId": "515",
+        "NapaGapaNE": "कोटहीमाई गाउँपालिका",
+        "NapaGapaEN": "Kotahimai",
+        "DistrictId": "49"
+    },
+    {
+        "NapaGapaId": "516",
+        "NapaGapaNE": "लुम्बिनी सांस्कृतिक नगरपालिका",
+        "NapaGapaEN": "Lumbini Sanskritik",
+        "DistrictId": "49"
+    },
+    {
+        "NapaGapaId": "517",
+        "NapaGapaNE": "मर्चवारी गाउँपालिका",
+        "NapaGapaEN": "Marchawari",
+        "DistrictId": "49"
+    },
+    {
+        "NapaGapaId": "518",
+        "NapaGapaNE": "मायादेवी गाउँपालिका",
+        "NapaGapaEN": "Mayadevi",
+        "DistrictId": "49"
+    },
+    {
+        "NapaGapaId": "519",
+        "NapaGapaNE": "ओमसतिया गाउँपालिका",
+        "NapaGapaEN": "Omsatiya",
+        "DistrictId": "49"
+    },
+    {
+        "NapaGapaId": "520",
+        "NapaGapaNE": "रोहिणी गाउँपालिका",
+        "NapaGapaEN": "Rohini",
+        "DistrictId": "49"
+    },
+    {
+        "NapaGapaId": "521",
+        "NapaGapaNE": "सैनामैना नगरपालिका",
+        "NapaGapaEN": "Sainamaina",
+        "DistrictId": "49"
+    },
+    {
+        "NapaGapaId": "522",
+        "NapaGapaNE": "सम्मरीमाई गाउँपालिका",
+        "NapaGapaEN": "Sammarimai",
+        "DistrictId": "49"
+    },
+    {
+        "NapaGapaId": "523",
+        "NapaGapaNE": "सिद्धार्थनगर नगरपालिका",
+        "NapaGapaEN": "Siddharthanagar",
+        "DistrictId": "49"
+    },
+    {
+        "NapaGapaId": "524",
+        "NapaGapaNE": "सियारी गाउँपालिका",
+        "NapaGapaEN": "Siyari",
+        "DistrictId": "49"
+    },
+    {
+        "NapaGapaId": "525",
+        "NapaGapaNE": "शुद्धोधन गाउँपालिका",
+        "NapaGapaEN": "Sudhdhodhan",
+        "DistrictId": "49"
+    },
+    {
+        "NapaGapaId": "526",
+        "NapaGapaNE": "तिलोत्तमा नगरपालिका",
+        "NapaGapaEN": "Tillotama",
+        "DistrictId": "49"
+    },
+    {
+        "NapaGapaId": "527",
+        "NapaGapaNE": null,
+        "NapaGapaEN": "Lumbini Sanskritik Development Area",
+        "DistrictId": "49"
+    },
+    {
+        "NapaGapaId": "528",
+        "NapaGapaNE": "बाणगंगा नगरपालिका",
+        "NapaGapaEN": "Banganga",
+        "DistrictId": "50"
+    },
+    {
+        "NapaGapaId": "529",
+        "NapaGapaNE": "विजयनगर गाउँपालिका",
+        "NapaGapaEN": "Bijayanagar",
+        "DistrictId": "50"
+    },
+    {
+        "NapaGapaId": "530",
+        "NapaGapaNE": "बुद्धभूमी नगरपालिका",
+        "NapaGapaEN": "Buddhabhumi",
+        "DistrictId": "50"
+    },
+    {
+        "NapaGapaId": "531",
+        "NapaGapaNE": "कपिलवस्तु नगरपालिका",
+        "NapaGapaEN": "Kapilbastu",
+        "DistrictId": "50"
+    },
+    {
+        "NapaGapaId": "532",
+        "NapaGapaNE": "कृष्णनगर नगरपालिका",
+        "NapaGapaEN": "Krishnanagar",
+        "DistrictId": "50"
+    },
+    {
+        "NapaGapaId": "533",
+        "NapaGapaNE": "महाराजगंज नगरपालिका",
+        "NapaGapaEN": "Maharajgunj",
+        "DistrictId": "50"
+    },
+    {
+        "NapaGapaId": "534",
+        "NapaGapaNE": "मायादेवी गाउँपालिका",
+        "NapaGapaEN": "Mayadevi",
+        "DistrictId": "50"
+    },
+    {
+        "NapaGapaId": "535",
+        "NapaGapaNE": "शिवराज नगरपालिका",
+        "NapaGapaEN": "Shivaraj",
+        "DistrictId": "50"
+    },
+    {
+        "NapaGapaId": "536",
+        "NapaGapaNE": "शुद्धोधन गाउँपालिका",
+        "NapaGapaEN": "Suddhodhan",
+        "DistrictId": "50"
+    },
+    {
+        "NapaGapaId": "537",
+        "NapaGapaNE": "यसोधरा गाउँपालिका",
+        "NapaGapaEN": "Yashodhara",
+        "DistrictId": "50"
+    },
+    {
+        "NapaGapaId": "538",
+        "NapaGapaNE": "भूमिकास्थान नगरपालिका",
+        "NapaGapaEN": "Bhumekasthan",
+        "DistrictId": "51"
+    },
+    {
+        "NapaGapaId": "539",
+        "NapaGapaNE": "छत्रदेव गाउँपालिका",
+        "NapaGapaEN": "Chhatradev",
+        "DistrictId": "51"
+    },
+    {
+        "NapaGapaId": "540",
+        "NapaGapaNE": "मालारानी गाउँपालिका",
+        "NapaGapaEN": "Malarani",
+        "DistrictId": "51"
+    },
+    {
+        "NapaGapaId": "541",
+        "NapaGapaNE": "पाणिनी गाउँपालिका",
+        "NapaGapaEN": "Panini",
+        "DistrictId": "51"
+    },
+    {
+        "NapaGapaId": "542",
+        "NapaGapaNE": "सन्धिखर्क नगरपालिका",
+        "NapaGapaEN": "Sandhikharka",
+        "DistrictId": "51"
+    },
+    {
+        "NapaGapaId": "543",
+        "NapaGapaNE": "सितगंगा नगरपालिका",
+        "NapaGapaEN": "Sitganga",
+        "DistrictId": "51"
+    },
+    {
+        "NapaGapaId": "544",
+        "NapaGapaNE": "ऐरावती गाउँपालिका",
+        "NapaGapaEN": "Ayirabati",
+        "DistrictId": "52"
+    },
+    {
+        "NapaGapaId": "545",
+        "NapaGapaNE": "गौमुखी गाउँपालिका",
+        "NapaGapaEN": "Gaumukhi",
+        "DistrictId": "52"
+    },
+    {
+        "NapaGapaId": "546",
+        "NapaGapaNE": "झिमरुक गाउँपालिका",
+        "NapaGapaEN": "Jhimruk",
+        "DistrictId": "52"
+    },
+    {
+        "NapaGapaId": "547",
+        "NapaGapaNE": "मल्लरानी गाउँपालिका",
+        "NapaGapaEN": "Mallarani",
+        "DistrictId": "52"
+    },
+    {
+        "NapaGapaId": "548",
+        "NapaGapaNE": "माण्डवी गाउँपालिका",
+        "NapaGapaEN": "Mandavi",
+        "DistrictId": "52"
+    },
+    {
+        "NapaGapaId": "549",
+        "NapaGapaNE": "नौवहिनी गाउँपालिका",
+        "NapaGapaEN": "Naubahini",
+        "DistrictId": "52"
+    },
+    {
+        "NapaGapaId": "550",
+        "NapaGapaNE": "प्यूठान नगरपालिका",
+        "NapaGapaEN": "Pyuthan",
+        "DistrictId": "52"
+    },
+    {
+        "NapaGapaId": "551",
+        "NapaGapaNE": "सरुमारानी गाउँपालिका",
+        "NapaGapaEN": "Sarumarani",
+        "DistrictId": "52"
+    },
+    {
+        "NapaGapaId": "552",
+        "NapaGapaNE": "स्वर्गद्वारी नगरपालिका",
+        "NapaGapaEN": "Sworgadwary",
+        "DistrictId": "52"
+    },
+    {
+        "NapaGapaId": "553",
+        "NapaGapaNE": "दुईखोली गाउँपालिका",
+        "NapaGapaEN": "Duikholi",
+        "DistrictId": "53"
+    },
+    {
+        "NapaGapaId": "554",
+        "NapaGapaNE": "लुङग्री गाउँपालिका",
+        "NapaGapaEN": "Lungri",
+        "DistrictId": "53"
+    },
+    {
+        "NapaGapaId": "555",
+        "NapaGapaNE": "मादी नगरपालिका",
+        "NapaGapaEN": "Madi",
+        "DistrictId": "53"
+    },
+    {
+        "NapaGapaId": "556",
+        "NapaGapaNE": "रोल्पा नगरपालिका",
+        "NapaGapaEN": "Rolpa",
+        "DistrictId": "53"
+    },
+    {
+        "NapaGapaId": "557",
+        "NapaGapaNE": "रुन्टीगढी गाउँपालिका",
+        "NapaGapaEN": "Runtigadi",
+        "DistrictId": "53"
+    },
+    {
+        "NapaGapaId": "558",
+        "NapaGapaNE": "सुकिदह गाउँपालिका",
+        "NapaGapaEN": "Sukidaha",
+        "DistrictId": "53"
+    },
+    {
+        "NapaGapaId": "559",
+        "NapaGapaNE": "सुनछहरी गाउँपालिका",
+        "NapaGapaEN": "Sunchhahari",
+        "DistrictId": "53"
+    },
+    {
+        "NapaGapaId": "560",
+        "NapaGapaNE": "सुवर्णावती गाउँपालिका",
+        "NapaGapaEN": "Suwarnabati",
+        "DistrictId": "53"
+    },
+    {
+        "NapaGapaId": "561",
+        "NapaGapaNE": "थवाङ गाउँपालिका",
+        "NapaGapaEN": "Thawang",
+        "DistrictId": "53"
+    },
+    {
+        "NapaGapaId": "562",
+        "NapaGapaNE": "त्रिवेणी गाउँपालिका",
+        "NapaGapaEN": "Tribeni",
+        "DistrictId": "53"
+    },
+    {
+        "NapaGapaId": "563",
+        "NapaGapaNE": "आठबिसकोट नगरपालिका",
+        "NapaGapaEN": "Aathbiskot",
+        "DistrictId": "54"
+    },
+    {
+        "NapaGapaId": "564",
+        "NapaGapaNE": "बाँफिकोट गाउँपालिका",
+        "NapaGapaEN": "Banfikot",
+        "DistrictId": "54"
+    },
+    {
+        "NapaGapaId": "565",
+        "NapaGapaNE": "चौरजहारी नगरपालिका",
+        "NapaGapaEN": "Chaurjahari",
+        "DistrictId": "54"
+    },
+    {
+        "NapaGapaId": "566",
+        "NapaGapaNE": "मुसिकोट नगरपालिका",
+        "NapaGapaEN": "Musikot",
+        "DistrictId": "54"
+    },
+    {
+        "NapaGapaId": "567",
+        "NapaGapaNE": "सानीभेरी गाउँपालिका",
+        "NapaGapaEN": "Sani Bheri",
+        "DistrictId": "54"
+    },
+    {
+        "NapaGapaId": "568",
+        "NapaGapaNE": "त्रिवेणी गाउँपालिका",
+        "NapaGapaEN": "Tribeni",
+        "DistrictId": "54"
+    },
+    {
+        "NapaGapaId": "569",
+        "NapaGapaNE": "बागचौर नगरपालिका",
+        "NapaGapaEN": "Bagchaur",
+        "DistrictId": "55"
+    },
+    {
+        "NapaGapaId": "570",
+        "NapaGapaNE": "बनगाड कुपिण्डे नगरपालिका",
+        "NapaGapaEN": "Bangad Kupinde",
+        "DistrictId": "55"
+    },
+    {
+        "NapaGapaId": "571",
+        "NapaGapaNE": "छत्रेश्वरी गाउँपालिका",
+        "NapaGapaEN": "Chhatreshwori",
+        "DistrictId": "55"
+    },
+    {
+        "NapaGapaId": "572",
+        "NapaGapaNE": "दार्मा गाउँपालिका",
+        "NapaGapaEN": "Darma",
+        "DistrictId": "55"
+    },
+    {
+        "NapaGapaId": "573",
+        "NapaGapaNE": "ढोरचौर गाउँपालिका",
+        "NapaGapaEN": "Dhorchaur",
+        "DistrictId": "55"
+    },
+    {
+        "NapaGapaId": "574",
+        "NapaGapaNE": "कालीमाटी गाउँपालिका",
+        "NapaGapaEN": "Kalimati",
+        "DistrictId": "55"
+    },
+    {
+        "NapaGapaId": "575",
+        "NapaGapaNE": "कपुरकोट गाउँपालिका",
+        "NapaGapaEN": "Kapurkot",
+        "DistrictId": "55"
+    },
+    {
+        "NapaGapaId": "576",
+        "NapaGapaNE": "कुमाखमालिका गाउँपालिका",
+        "NapaGapaEN": "Kumakhmalika",
+        "DistrictId": "55"
+    },
+    {
+        "NapaGapaId": "577",
+        "NapaGapaNE": "शारदा नगरपालिका",
+        "NapaGapaEN": "Sharada",
+        "DistrictId": "55"
+    },
+    {
+        "NapaGapaId": "578",
+        "NapaGapaNE": "त्रिवेणी गाउँपालिका",
+        "NapaGapaEN": "Tribeni",
+        "DistrictId": "55"
+    },
+    {
+        "NapaGapaId": "579",
+        "NapaGapaNE": "बबई गाउँपालिका",
+        "NapaGapaEN": "Babai",
+        "DistrictId": "56"
+    },
+    {
+        "NapaGapaId": "580",
+        "NapaGapaNE": "बंगलाचुली गाउँपालिका",
+        "NapaGapaEN": "Banglachuli",
+        "DistrictId": "56"
+    },
+    {
+        "NapaGapaId": "581",
+        "NapaGapaNE": "दंगीशरण गाउँपालिका",
+        "NapaGapaEN": "Dangisharan",
+        "DistrictId": "56"
+    },
+    {
+        "NapaGapaId": "582",
+        "NapaGapaNE": "गढवा गाउँपालिका",
+        "NapaGapaEN": "Gadhawa",
+        "DistrictId": "56"
+    },
+    {
+        "NapaGapaId": "583",
+        "NapaGapaNE": "घोराही उपमहानगरपालिका",
+        "NapaGapaEN": "Ghorahi",
+        "DistrictId": "56"
+    },
+    {
+        "NapaGapaId": "584",
+        "NapaGapaNE": "लमही नगरपालिका",
+        "NapaGapaEN": "Lamahi",
+        "DistrictId": "56"
+    },
+    {
+        "NapaGapaId": "585",
+        "NapaGapaNE": "राजपुर नगरपालिका",
+        "NapaGapaEN": "Rajpur",
+        "DistrictId": "56"
+    },
+    {
+        "NapaGapaId": "586",
+        "NapaGapaNE": "राप्ती नगरपालिका",
+        "NapaGapaEN": "Rapti",
+        "DistrictId": "56"
+    },
+    {
+        "NapaGapaId": "587",
+        "NapaGapaNE": "शान्तिनगर गाउँपालिका",
+        "NapaGapaEN": "Shantinagar",
+        "DistrictId": "56"
+    },
+    {
+        "NapaGapaId": "588",
+        "NapaGapaNE": "तुल्सिपुर उपमहानगरपालिका",
+        "NapaGapaEN": "Tulsipur",
+        "DistrictId": "56"
+    },
+    {
+        "NapaGapaId": "589",
+        "NapaGapaNE": "बैजनाथ गाउँपालिका",
+        "NapaGapaEN": "Baijanath",
+        "DistrictId": "57"
+    },
+    {
+        "NapaGapaId": "590",
+        "NapaGapaNE": "डुडुवा गाउँपालिका",
+        "NapaGapaEN": "Duduwa",
+        "DistrictId": "57"
+    },
+    {
+        "NapaGapaId": "591",
+        "NapaGapaNE": "जानकी गाउँपालिका",
+        "NapaGapaEN": "Janki",
+        "DistrictId": "57"
+    },
+    {
+        "NapaGapaId": "592",
+        "NapaGapaNE": "खजुरा गाउँपालिका",
+        "NapaGapaEN": "Khajura",
+        "DistrictId": "57"
+    },
+    {
+        "NapaGapaId": "593",
+        "NapaGapaNE": "कोहलपुर नगरपालिका",
+        "NapaGapaEN": "Kohalpur",
+        "DistrictId": "57"
+    },
+    {
+        "NapaGapaId": "594",
+        "NapaGapaNE": "नरैनापुर गाउँपालिका",
+        "NapaGapaEN": "Narainapur",
+        "DistrictId": "57"
+    },
+    {
+        "NapaGapaId": "595",
+        "NapaGapaNE": "नेपालगंज उपमहानगरपालिका",
+        "NapaGapaEN": "Nepalgunj",
+        "DistrictId": "57"
+    },
+    {
+        "NapaGapaId": "596",
+        "NapaGapaNE": "राप्ती सोनारी गाउँपालिका",
+        "NapaGapaEN": "Rapti Sonari",
+        "DistrictId": "57"
+    },
+    {
+        "NapaGapaId": "597",
+        "NapaGapaNE": "बढैयाताल गाउँपालिका",
+        "NapaGapaEN": "Badhaiyatal",
+        "DistrictId": "58"
+    },
+    {
+        "NapaGapaId": "598",
+        "NapaGapaNE": "बारबर्दिया नगरपालिका",
+        "NapaGapaEN": "Bansagadhi",
+        "DistrictId": "58"
+    },
+    {
+        "NapaGapaId": "599",
+        "NapaGapaNE": "बारबर्दिया नगरपालिका",
+        "NapaGapaEN": "Barbardiya",
+        "DistrictId": "58"
+    },
+    {
+        "NapaGapaId": "600",
+        "NapaGapaNE": "गेरुवा गाउँपालिका",
+        "NapaGapaEN": "Geruwa",
+        "DistrictId": "58"
+    },
+    {
+        "NapaGapaId": "601",
+        "NapaGapaNE": "गुलरिया नगरपालिका",
+        "NapaGapaEN": "Gulariya",
+        "DistrictId": "58"
+    },
+    {
+        "NapaGapaId": "602",
+        "NapaGapaNE": "मधुवन नगरपालिका",
+        "NapaGapaEN": "Madhuwan",
+        "DistrictId": "58"
+    },
+    {
+        "NapaGapaId": "603",
+        "NapaGapaNE": "राजपुर नगरपालिका",
+        "NapaGapaEN": "Rajapur",
+        "DistrictId": "58"
+    },
+    {
+        "NapaGapaId": "604",
+        "NapaGapaNE": "ठाकुरबाबा नगरपालिका",
+        "NapaGapaEN": "Thakurbaba",
+        "DistrictId": "58"
+    },
+    {
+        "NapaGapaId": "605",
+        "NapaGapaNE": null,
+        "NapaGapaEN": "Bardiya National Park",
+        "DistrictId": "58"
+    },
+    {
+        "NapaGapaId": "606",
+        "NapaGapaNE": "बराहताल गाउँपालिका",
+        "NapaGapaEN": "Barahtal",
+        "DistrictId": "59"
+    },
+    {
+        "NapaGapaId": "607",
+        "NapaGapaNE": "भेरीगंगा नगरपालिका",
+        "NapaGapaEN": "Bheriganga",
+        "DistrictId": "59"
+    },
+    {
+        "NapaGapaId": "608",
+        "NapaGapaNE": "बीरेन्द्रनगर नगरपालिका",
+        "NapaGapaEN": "Birendranagar",
+        "DistrictId": "59"
+    },
+    {
+        "NapaGapaId": "609",
+        "NapaGapaNE": "चौकुने गाउँपालिका",
+        "NapaGapaEN": "Chaukune",
+        "DistrictId": "59"
+    },
+    {
+        "NapaGapaId": "610",
+        "NapaGapaNE": "चिङ्गाड गाउँपालिका",
+        "NapaGapaEN": "Chingad",
+        "DistrictId": "59"
+    },
+    {
+        "NapaGapaId": "611",
+        "NapaGapaNE": "गुर्भाकोट नगरपालिका",
+        "NapaGapaEN": "Gurbhakot",
+        "DistrictId": "59"
+    },
+    {
+        "NapaGapaId": "612",
+        "NapaGapaNE": "लेकबेशी नगरपालिका",
+        "NapaGapaEN": "Lekbeshi",
+        "DistrictId": "59"
+    },
+    {
+        "NapaGapaId": "613",
+        "NapaGapaNE": "पञ्चपुरी नगरपालिका",
+        "NapaGapaEN": "Panchpuri",
+        "DistrictId": "59"
+    },
+    {
+        "NapaGapaId": "614",
+        "NapaGapaNE": "सिम्ता गाउँपालिका",
+        "NapaGapaEN": "Simta",
+        "DistrictId": "59"
+    },
+    {
+        "NapaGapaId": "615",
+        "NapaGapaNE": "आठबीस नगरपालिका",
+        "NapaGapaEN": "Aathabis",
+        "DistrictId": "60"
+    },
+    {
+        "NapaGapaId": "616",
+        "NapaGapaNE": "भगवतीमाई गाउँपालिका",
+        "NapaGapaEN": "Bhagawatimai",
+        "DistrictId": "60"
+    },
+    {
+        "NapaGapaId": "617",
+        "NapaGapaNE": "भैरवी गाउँपालिका",
+        "NapaGapaEN": "Bhairabi",
+        "DistrictId": "60"
+    },
+    {
+        "NapaGapaId": "618",
+        "NapaGapaNE": "चामुण्डा विन्द्रासैनी नगरपालिका",
+        "NapaGapaEN": "Chamunda Bindrasaini",
+        "DistrictId": "60"
+    },
+    {
+        "NapaGapaId": "619",
+        "NapaGapaNE": "दुल्लु नगरपालिका",
+        "NapaGapaEN": "Dullu",
+        "DistrictId": "60"
+    },
+    {
+        "NapaGapaId": "620",
+        "NapaGapaNE": "डुंगेश्वर गाउँपालिका",
+        "NapaGapaEN": "Dungeshwor",
+        "DistrictId": "60"
+    },
+    {
+        "NapaGapaId": "621",
+        "NapaGapaNE": "गुराँस गाउँपालिका",
+        "NapaGapaEN": "Gurans",
+        "DistrictId": "60"
+    },
+    {
+        "NapaGapaId": "622",
+        "NapaGapaNE": "गुराँस गाउँपालिका",
+        "NapaGapaEN": "Mahabu",
+        "DistrictId": "60"
+    },
+    {
+        "NapaGapaId": "623",
+        "NapaGapaNE": "नारायण नगरपालिका",
+        "NapaGapaEN": "Narayan",
+        "DistrictId": "60"
+    },
+    {
+        "NapaGapaId": "624",
+        "NapaGapaNE": "नौमुले गाउँपालिका",
+        "NapaGapaEN": "Naumule",
+        "DistrictId": "60"
+    },
+    {
+        "NapaGapaId": "625",
+        "NapaGapaNE": "ठाँटीकाँध गाउँपालिका",
+        "NapaGapaEN": "Thantikandh",
+        "DistrictId": "60"
+    },
+    {
+        "NapaGapaId": "626",
+        "NapaGapaNE": "बारेकोट गाउँपालिका",
+        "NapaGapaEN": "Barekot",
+        "DistrictId": "61"
+    },
+    {
+        "NapaGapaId": "627",
+        "NapaGapaNE": "भेरी नगरपालिका",
+        "NapaGapaEN": "Bheri",
+        "DistrictId": "61"
+    },
+    {
+        "NapaGapaId": "628",
+        "NapaGapaNE": "छेडागाड नगरपालिका",
+        "NapaGapaEN": "Chhedagad",
+        "DistrictId": "61"
+    },
+    {
+        "NapaGapaId": "629",
+        "NapaGapaNE": "जुनीचाँदे गाउँपालिका",
+        "NapaGapaEN": "Junichande",
+        "DistrictId": "61"
+    },
+    {
+        "NapaGapaId": "630",
+        "NapaGapaNE": "कुसे गाउँपालिका",
+        "NapaGapaEN": "Kuse",
+        "DistrictId": "61"
+    },
+    {
+        "NapaGapaId": "631",
+        "NapaGapaNE": "शिवालय गाउँपालिका",
+        "NapaGapaEN": "Shiwalaya",
+        "DistrictId": "61"
+    },
+    {
+        "NapaGapaId": "632",
+        "NapaGapaNE": "त्रिवेणी नलगाड नगरपालिका",
+        "NapaGapaEN": "Tribeni Nalagad",
+        "DistrictId": "61"
+    },
+    {
+        "NapaGapaId": "633",
+        "NapaGapaNE": "छार्का ताङसोङ गाउँपालिका",
+        "NapaGapaEN": "Chharka Tangsong",
+        "DistrictId": "62"
+    },
+    {
+        "NapaGapaId": "634",
+        "NapaGapaNE": "डोल्पो बुद्ध गाउँपालिका",
+        "NapaGapaEN": "Dolpo Buddha",
+        "DistrictId": "62"
+    },
+    {
+        "NapaGapaId": "635",
+        "NapaGapaNE": "जगदुल्ला गाउँपालिका",
+        "NapaGapaEN": "Jagadulla",
+        "DistrictId": "62"
+    },
+    {
+        "NapaGapaId": "636",
+        "NapaGapaNE": "काईके गाउँपालिका",
+        "NapaGapaEN": "Kaike",
+        "DistrictId": "62"
+    },
+    {
+        "NapaGapaId": "637",
+        "NapaGapaNE": "मुड्केचुला गाउँपालिका",
+        "NapaGapaEN": "Mudkechula",
+        "DistrictId": "62"
+    },
+    {
+        "NapaGapaId": "638",
+        "NapaGapaNE": "शे फोक्सुन्डो गाउँपालिका",
+        "NapaGapaEN": "Shey Phoksundo",
+        "DistrictId": "62"
+    },
+    {
+        "NapaGapaId": "639",
+        "NapaGapaNE": "ठूली भेरी नगरपालिका",
+        "NapaGapaEN": "Thuli Bheri",
+        "DistrictId": "62"
+    },
+    {
+        "NapaGapaId": "640",
+        "NapaGapaNE": "त्रिपुरासुन्दरी गाउँपालिका",
+        "NapaGapaEN": "Tripurasundari",
+        "DistrictId": "62"
+    },
+    {
+        "NapaGapaId": "641",
+        "NapaGapaNE": "चन्दननाथ नगरपालिका",
+        "NapaGapaEN": "Chandannath",
+        "DistrictId": "63"
+    },
+    {
+        "NapaGapaId": "642",
+        "NapaGapaNE": "गुठिचौर गाउँपालिका",
+        "NapaGapaEN": "Guthichaur",
+        "DistrictId": "63"
+    },
+    {
+        "NapaGapaId": "643",
+        "NapaGapaNE": "हिमा गाउँपालिका",
+        "NapaGapaEN": "Hima",
+        "DistrictId": "63"
+    },
+    {
+        "NapaGapaId": "644",
+        "NapaGapaNE": "कनकासुन्दरी गाउँपालिका",
+        "NapaGapaEN": "Kanakasundari",
+        "DistrictId": "63"
+    },
+    {
+        "NapaGapaId": "645",
+        "NapaGapaNE": "पातारासी गाउँपालिका",
+        "NapaGapaEN": "Patrasi",
+        "DistrictId": "63"
+    },
+    {
+        "NapaGapaId": "646",
+        "NapaGapaNE": "सिंजा गाउँपालिका",
+        "NapaGapaEN": "Sinja",
+        "DistrictId": "63"
+    },
+    {
+        "NapaGapaId": "647",
+        "NapaGapaNE": "तातोपानी गाउँपालिका",
+        "NapaGapaEN": "Tatopani",
+        "DistrictId": "63"
+    },
+    {
+        "NapaGapaId": "648",
+        "NapaGapaNE": "तिला गाउँपालिका",
+        "NapaGapaEN": "Tila",
+        "DistrictId": "63"
+    },
+    {
+        "NapaGapaId": "649",
+        "NapaGapaNE": "कालिका गाउँपालिका",
+        "NapaGapaEN": "Kalika",
+        "DistrictId": "64"
+    },
+    {
+        "NapaGapaId": "650",
+        "NapaGapaNE": "खाँडाचक्र नगरपालिका",
+        "NapaGapaEN": "Khandachakra",
+        "DistrictId": "64"
+    },
+    {
+        "NapaGapaId": "651",
+        "NapaGapaNE": "महावै गाउँपालिका",
+        "NapaGapaEN": "Mahawai",
+        "DistrictId": "64"
+    },
+    {
+        "NapaGapaId": "652",
+        "NapaGapaNE": "नरहरिनाथ गाउँपालिका",
+        "NapaGapaEN": "Naraharinath",
+        "DistrictId": "64"
+    },
+    {
+        "NapaGapaId": "653",
+        "NapaGapaNE": "पचालझरना गाउँपालिका",
+        "NapaGapaEN": "Pachaljharana",
+        "DistrictId": "64"
+    },
+    {
+        "NapaGapaId": "654",
+        "NapaGapaNE": "पलाता गाउँपालिका",
+        "NapaGapaEN": "Palata",
+        "DistrictId": "64"
+    },
+    {
+        "NapaGapaId": "655",
+        "NapaGapaNE": "रास्कोट नगरपालिका",
+        "NapaGapaEN": "Raskot",
+        "DistrictId": "64"
+    },
+    {
+        "NapaGapaId": "656",
+        "NapaGapaNE": "सान्नी त्रिवेणी गाउँपालिका",
+        "NapaGapaEN": "Sanni Tribeni",
+        "DistrictId": "64"
+    },
+    {
+        "NapaGapaId": "657",
+        "NapaGapaNE": "तिलागुफा नगरपालिका",
+        "NapaGapaEN": "Tilagufa",
+        "DistrictId": "64"
+    },
+    {
+        "NapaGapaId": "658",
+        "NapaGapaNE": "छायाँनाथ रारा नगरपालिका",
+        "NapaGapaEN": "Chhayanath Rara",
+        "DistrictId": "65"
+    },
+    {
+        "NapaGapaId": "659",
+        "NapaGapaNE": "खत्याड गाउँपालिका",
+        "NapaGapaEN": "Khatyad",
+        "DistrictId": "65"
+    },
+    {
+        "NapaGapaId": "660",
+        "NapaGapaNE": "मुगुम कार्मारोंग गाउँपालिका",
+        "NapaGapaEN": "Mugum Karmarong",
+        "DistrictId": "65"
+    },
+    {
+        "NapaGapaId": "661",
+        "NapaGapaNE": "सोरु गाउँपालिका",
+        "NapaGapaEN": "Soru",
+        "DistrictId": "65"
+    },
+    {
+        "NapaGapaId": "662",
+        "NapaGapaNE": "अदानचुली गाउँपालिका",
+        "NapaGapaEN": "Adanchuli",
+        "DistrictId": "66"
+    },
+    {
+        "NapaGapaId": "663",
+        "NapaGapaNE": "चंखेली गाउँपालिका",
+        "NapaGapaEN": "Chankheli",
+        "DistrictId": "66"
+    },
+    {
+        "NapaGapaId": "664",
+        "NapaGapaNE": "खार्पुनाथ गाउँपालिका",
+        "NapaGapaEN": "Kharpunath",
+        "DistrictId": "66"
+    },
+    {
+        "NapaGapaId": "665",
+        "NapaGapaNE": "नाम्खा गाउँपालिका",
+        "NapaGapaEN": "Namkha",
+        "DistrictId": "66"
+    },
+    {
+        "NapaGapaId": "666",
+        "NapaGapaNE": "सर्केगाड गाउँपालिका",
+        "NapaGapaEN": "Sarkegad",
+        "DistrictId": "66"
+    },
+    {
+        "NapaGapaId": "667",
+        "NapaGapaNE": "सिमकोट गाउँपालिका",
+        "NapaGapaEN": "Simkot",
+        "DistrictId": "66"
+    },
+    {
+        "NapaGapaId": "668",
+        "NapaGapaNE": "ताँजाकोट गाउँपालिका",
+        "NapaGapaEN": "Tanjakot",
+        "DistrictId": "66"
+    },
+    {
+        "NapaGapaId": "669",
+        "NapaGapaNE": "बडीमालिका नगरपालिका",
+        "NapaGapaEN": "Badimalika",
+        "DistrictId": "67"
+    },
+    {
+        "NapaGapaId": "670",
+        "NapaGapaNE": "बुढीगंगा गाउँपालिका",
+        "NapaGapaEN": "Budhiganga",
+        "DistrictId": "67"
+    },
+    {
+        "NapaGapaId": "671",
+        "NapaGapaNE": "बुढीनन्दा नगरपालिका",
+        "NapaGapaEN": "Budhinanda",
+        "DistrictId": "67"
+    },
+    {
+        "NapaGapaId": "672",
+        "NapaGapaNE": "छेडेदह गाउँपालिका",
+        "NapaGapaEN": "Chhededaha",
+        "DistrictId": "67"
+    },
+    {
+        "NapaGapaId": "673",
+        "NapaGapaNE": "गौमुल गाउँपालिका",
+        "NapaGapaEN": "Gaumul",
+        "DistrictId": "67"
+    },
+    {
+        "NapaGapaId": "674",
+        "NapaGapaNE": "हिमाली गाउँपालिका",
+        "NapaGapaEN": "Himali",
+        "DistrictId": "67"
+    },
+    {
+        "NapaGapaId": "675",
+        "NapaGapaNE": "पाण्डवगुफा गाउँपालिका",
+        "NapaGapaEN": "Pandav Gupha",
+        "DistrictId": "67"
+    },
+    {
+        "NapaGapaId": "676",
+        "NapaGapaNE": "स्वामीकार्तिक गाउँपालिका",
+        "NapaGapaEN": "Swami Kartik",
+        "DistrictId": "67"
+    },
+    {
+        "NapaGapaId": "677",
+        "NapaGapaNE": "त्रिवेणी गाउँपालिका",
+        "NapaGapaEN": "Tribeni",
+        "DistrictId": "67"
+    },
+    {
+        "NapaGapaId": "678",
+        "NapaGapaNE": null,
+        "NapaGapaEN": "Khaptad National Park",
+        "DistrictId": "67"
+    },
+    {
+        "NapaGapaId": "679",
+        "NapaGapaNE": "वित्थडचिर गाउँपालिका",
+        "NapaGapaEN": "Bithadchir",
+        "DistrictId": "68"
+    },
+    {
+        "NapaGapaId": "680",
+        "NapaGapaNE": "बुंगल नगरपालिका",
+        "NapaGapaEN": "Bungal",
+        "DistrictId": "68"
+    },
+    {
+        "NapaGapaId": "681",
+        "NapaGapaNE": "छबिसपाथिभेरा गाउँपालिका",
+        "NapaGapaEN": "Chabispathivera",
+        "DistrictId": "68"
+    },
+    {
+        "NapaGapaId": "682",
+        "NapaGapaNE": "दुर्गाथली गाउँपालिका",
+        "NapaGapaEN": "Durgathali",
+        "DistrictId": "68"
+    },
+    {
+        "NapaGapaId": "683",
+        "NapaGapaNE": "जयपृथ्वी नगरपालिका",
+        "NapaGapaEN": "JayaPrithivi",
+        "DistrictId": "68"
+    },
+    {
+        "NapaGapaId": "684",
+        "NapaGapaNE": "काँडा गाउँपालिका",
+        "NapaGapaEN": "Kanda",
+        "DistrictId": "68"
+    },
+    {
+        "NapaGapaId": "685",
+        "NapaGapaNE": "केदारस्युँ गाउँपालिका",
+        "NapaGapaEN": "Kedarseu",
+        "DistrictId": "68"
+    },
+    {
+        "NapaGapaId": "686",
+        "NapaGapaNE": "खप्तडछान्ना गाउँपालिका",
+        "NapaGapaEN": "Khaptadchhanna",
+        "DistrictId": "68"
+    },
+    {
+        "NapaGapaId": "687",
+        "NapaGapaNE": "मष्टा गाउँपालिका",
+        "NapaGapaEN": "Masta",
+        "DistrictId": "68"
+    },
+    {
+        "NapaGapaId": "688",
+        "NapaGapaNE": "सूर्मा गाउँपालिका",
+        "NapaGapaEN": "Surma",
+        "DistrictId": "68"
+    },
+    {
+        "NapaGapaId": "689",
+        "NapaGapaNE": "तलकोट गाउँपालिका",
+        "NapaGapaEN": "Talkot",
+        "DistrictId": "68"
+    },
+    {
+        "NapaGapaId": "690",
+        "NapaGapaNE": "थलारा गाउँपालिका",
+        "NapaGapaEN": "Thalara",
+        "DistrictId": "68"
+    },
+    {
+        "NapaGapaId": "691",
+        "NapaGapaNE": null,
+        "NapaGapaEN": "Khaptad National Park",
+        "DistrictId": "68"
+    },
+    {
+        "NapaGapaId": "692",
+        "NapaGapaNE": "बान्नीगढी जयगढ गाउँपालिका",
+        "NapaGapaEN": "Bannigadhi Jayagadh",
+        "DistrictId": "69"
+    },
+    {
+        "NapaGapaId": "693",
+        "NapaGapaNE": "चौरपाटी गाउँपालिका",
+        "NapaGapaEN": "Chaurpati",
+        "DistrictId": "69"
+    },
+    {
+        "NapaGapaId": "694",
+        "NapaGapaNE": "ढकारी गाउँपालिका",
+        "NapaGapaEN": "Dhakari",
+        "DistrictId": "69"
+    },
+    {
+        "NapaGapaId": "695",
+        "NapaGapaNE": "कमलबजार नगरपालिका",
+        "NapaGapaEN": "Kamalbazar",
+        "DistrictId": "69"
+    },
+    {
+        "NapaGapaId": "696",
+        "NapaGapaNE": "मंगलसेन नगरपालिका",
+        "NapaGapaEN": "Mangalsen",
+        "DistrictId": "69"
+    },
+    {
+        "NapaGapaId": "697",
+        "NapaGapaNE": "मेल्लेख गाउँपालिका",
+        "NapaGapaEN": "Mellekh",
+        "DistrictId": "69"
+    },
+    {
+        "NapaGapaId": "698",
+        "NapaGapaNE": "पञ्चदेवल विनायक नगरपालिका",
+        "NapaGapaEN": "Panchadewal Binayak",
+        "DistrictId": "69"
+    },
+    {
+        "NapaGapaId": "699",
+        "NapaGapaNE": "रामारोशन गाउँपालिका",
+        "NapaGapaEN": "Ramaroshan",
+        "DistrictId": "69"
+    },
+    {
+        "NapaGapaId": "700",
+        "NapaGapaNE": "साफेबगर नगरपालिका",
+        "NapaGapaEN": "Sanphebagar",
+        "DistrictId": "69"
+    },
+    {
+        "NapaGapaId": "701",
+        "NapaGapaNE": "तुर्माखाँद गाउँपालिका",
+        "NapaGapaEN": "Turmakhad",
+        "DistrictId": "69"
+    },
+    {
+        "NapaGapaId": "702",
+        "NapaGapaNE": null,
+        "NapaGapaEN": "Khaptad National Park",
+        "DistrictId": "69"
+    },
+    {
+        "NapaGapaId": "703",
+        "NapaGapaNE": "आदर्श गाउँपालिका",
+        "NapaGapaEN": "Adharsha",
+        "DistrictId": "70"
+    },
+    {
+        "NapaGapaId": "704",
+        "NapaGapaNE": "बडीकेदार गाउँपालिका",
+        "NapaGapaEN": "Badikedar",
+        "DistrictId": "70"
+    },
+    {
+        "NapaGapaId": "705",
+        "NapaGapaNE": "बोगटान गाउँपालिका",
+        "NapaGapaEN": "Bogtan",
+        "DistrictId": "70"
+    },
+    {
+        "NapaGapaId": "706",
+        "NapaGapaNE": "दिपायल सिलगढी नगरपालिका",
+        "NapaGapaEN": "Dipayal Silgadi",
+        "DistrictId": "70"
+    },
+    {
+        "NapaGapaId": "707",
+        "NapaGapaNE": "जोरायल गाउँपालिका",
+        "NapaGapaEN": "Jorayal",
+        "DistrictId": "70"
+    },
+    {
+        "NapaGapaId": "708",
+        "NapaGapaNE": "के.आई.सिं. गाउँपालिका",
+        "NapaGapaEN": "K I Singh",
+        "DistrictId": "70"
+    },
+    {
+        "NapaGapaId": "709",
+        "NapaGapaNE": "पूर्वीचौकी गाउँपालिका",
+        "NapaGapaEN": "Purbichauki",
+        "DistrictId": "70"
+    },
+    {
+        "NapaGapaId": "710",
+        "NapaGapaNE": "सायल गाउँपालिका",
+        "NapaGapaEN": "Sayal",
+        "DistrictId": "70"
+    },
+    {
+        "NapaGapaId": "711",
+        "NapaGapaNE": "शिखर नगरपालिका",
+        "NapaGapaEN": "Shikhar",
+        "DistrictId": "70"
+    },
+    {
+        "NapaGapaId": "712",
+        "NapaGapaNE": null,
+        "NapaGapaEN": "Khaptad National Park",
+        "DistrictId": "70"
+    },
+    {
+        "NapaGapaId": "713",
+        "NapaGapaNE": "बर्दगोरीया गाउँपालिका",
+        "NapaGapaEN": "Bardagoriya",
+        "DistrictId": "71"
+    },
+    {
+        "NapaGapaId": "714",
+        "NapaGapaNE": "भजनी नगरपालिका",
+        "NapaGapaEN": "Bhajani",
+        "DistrictId": "71"
+    },
+    {
+        "NapaGapaId": "715",
+        "NapaGapaNE": "चुरे गाउँपालिका",
+        "NapaGapaEN": "Chure",
+        "DistrictId": "71"
+    },
+    {
+        "NapaGapaId": "716",
+        "NapaGapaNE": "धनगढी उपमहानगरपालिका",
+        "NapaGapaEN": "Dhangadhi",
+        "DistrictId": "71"
+    },
+    {
+        "NapaGapaId": "717",
+        "NapaGapaNE": "गौरीगंगा नगरपालिका",
+        "NapaGapaEN": "Gauriganga",
+        "DistrictId": "71"
+    },
+    {
+        "NapaGapaId": "718",
+        "NapaGapaNE": "घोडाघोडी नगरपालिका",
+        "NapaGapaEN": "Ghodaghodi",
+        "DistrictId": "71"
+    },
+    {
+        "NapaGapaId": "719",
+        "NapaGapaNE": "गोदावरी नगरपालिका",
+        "NapaGapaEN": "Godawari",
+        "DistrictId": "71"
+    },
+    {
+        "NapaGapaId": "720",
+        "NapaGapaNE": "जानकी गाउँपालिका",
+        "NapaGapaEN": "Janaki",
+        "DistrictId": "71"
+    },
+    {
+        "NapaGapaId": "721",
+        "NapaGapaNE": "जोशीपुर गाउँपालिका",
+        "NapaGapaEN": "Joshipur",
+        "DistrictId": "71"
+    },
+    {
+        "NapaGapaId": "722",
+        "NapaGapaNE": "कैलारी गाँउपालीका",
+        "NapaGapaEN": "Kailari",
+        "DistrictId": "71"
+    },
+    {
+        "NapaGapaId": "723",
+        "NapaGapaNE": "लम्की चुहा नगरपालिका",
+        "NapaGapaEN": "Lamkichuha",
+        "DistrictId": "71"
+    },
+    {
+        "NapaGapaId": "724",
+        "NapaGapaNE": "मोहन्याल गाउँपालिका",
+        "NapaGapaEN": "Mohanyal",
+        "DistrictId": "71"
+    },
+    {
+        "NapaGapaId": "725",
+        "NapaGapaNE": "टिकापुर नगरपालिका",
+        "NapaGapaEN": "Tikapur",
+        "DistrictId": "71"
+    },
+    {
+        "NapaGapaId": "726",
+        "NapaGapaNE": "वेदकोट नगरपालिका",
+        "NapaGapaEN": "Bedkot",
+        "DistrictId": "72"
+    },
+    {
+        "NapaGapaId": "727",
+        "NapaGapaNE": "बेलौरी नगरपालिका",
+        "NapaGapaEN": "Belauri",
+        "DistrictId": "72"
+    },
+    {
+        "NapaGapaId": "728",
+        "NapaGapaNE": "बेलडाडी गाउँपालिका",
+        "NapaGapaEN": "Beldandi",
+        "DistrictId": "72"
+    },
+    {
+        "NapaGapaId": "729",
+        "NapaGapaNE": "भीमदत्त नगरपालिका",
+        "NapaGapaEN": "Bhimdatta",
+        "DistrictId": "72"
+    },
+    {
+        "NapaGapaId": "730",
+        "NapaGapaNE": "कृष्णपुर नगरपालिका",
+        "NapaGapaEN": "Krishnapur",
+        "DistrictId": "72"
+    },
+    {
+        "NapaGapaId": "731",
+        "NapaGapaNE": "लालझाँडी गाउँपालिका",
+        "NapaGapaEN": "Laljhadi",
+        "DistrictId": "72"
+    },
+    {
+        "NapaGapaId": "732",
+        "NapaGapaNE": "माहाकाली नगरपालिका",
+        "NapaGapaEN": "Mahakali",
+        "DistrictId": "72"
+    },
+    {
+        "NapaGapaId": "733",
+        "NapaGapaNE": "पुनर्वास नगरपालिका",
+        "NapaGapaEN": "Punarbas",
+        "DistrictId": "72"
+    },
+    {
+        "NapaGapaId": "734",
+        "NapaGapaNE": "सुक्लाफाँटा नगरपालिका",
+        "NapaGapaEN": "Shuklaphanta",
+        "DistrictId": "72"
+    },
+    {
+        "NapaGapaId": "735",
+        "NapaGapaNE": null,
+        "NapaGapaEN": "Shuklaphanta National Park",
+        "DistrictId": "72"
+    },
+    {
+        "NapaGapaId": "736",
+        "NapaGapaNE": "अजयमेरु गाउँपालिका",
+        "NapaGapaEN": "Ajaymeru",
+        "DistrictId": "73"
+    },
+    {
+        "NapaGapaId": "737",
+        "NapaGapaNE": "आलिताल गाउँपालिका",
+        "NapaGapaEN": "Alital",
+        "DistrictId": "73"
+    },
+    {
+        "NapaGapaId": "738",
+        "NapaGapaNE": "अमरगढी नगरपालिका",
+        "NapaGapaEN": "Amargadhi",
+        "DistrictId": "73"
+    },
+    {
+        "NapaGapaId": "739",
+        "NapaGapaNE": "भागेश्वर गाउँपालिका",
+        "NapaGapaEN": "Bhageshwar",
+        "DistrictId": "73"
+    },
+    {
+        "NapaGapaId": "740",
+        "NapaGapaNE": "गन्यापधुरा गाउँपालिका",
+        "NapaGapaEN": "Ganayapdhura",
+        "DistrictId": "73"
+    },
+    {
+        "NapaGapaId": "741",
+        "NapaGapaNE": "नवदुर्गा गाउँपालिका",
+        "NapaGapaEN": "Nawadurga",
+        "DistrictId": "73"
+    },
+    {
+        "NapaGapaId": "742",
+        "NapaGapaNE": "परशुराम नगरपालिका",
+        "NapaGapaEN": "Parashuram",
+        "DistrictId": "73"
+    },
+    {
+        "NapaGapaId": "743",
+        "NapaGapaNE": "दशरथचन्द नगरपालिका",
+        "NapaGapaEN": "Dasharathchanda",
+        "DistrictId": "74"
+    },
+    {
+        "NapaGapaId": "744",
+        "NapaGapaNE": "डीलासैनी गाउँपालिका",
+        "NapaGapaEN": "Dilasaini",
+        "DistrictId": "74"
+    },
+    {
+        "NapaGapaId": "745",
+        "NapaGapaNE": "दोगडाकेदार गाउँपालिका",
+        "NapaGapaEN": "Dogadakedar",
+        "DistrictId": "74"
+    },
+    {
+        "NapaGapaId": "746",
+        "NapaGapaNE": "मेलौली नगरपालिका",
+        "NapaGapaEN": "Melauli",
+        "DistrictId": "74"
+    },
+    {
+        "NapaGapaId": "747",
+        "NapaGapaNE": "पन्चेश्वर गाउँपालिका",
+        "NapaGapaEN": "Pancheshwar",
+        "DistrictId": "74"
+    },
+    {
+        "NapaGapaId": "748",
+        "NapaGapaNE": "पाटन नगरपालिका",
+        "NapaGapaEN": "Patan",
+        "DistrictId": "74"
+    },
+    {
+        "NapaGapaId": "749",
+        "NapaGapaNE": "पुर्चौडी नगरपालिका",
+        "NapaGapaEN": "Purchaudi",
+        "DistrictId": "74"
+    },
+    {
+        "NapaGapaId": "750",
+        "NapaGapaNE": "शिवनाथ गाउँपालिका",
+        "NapaGapaEN": "Shivanath",
+        "DistrictId": "74"
+    },
+    {
+        "NapaGapaId": "751",
+        "NapaGapaNE": "सिगास गाउँपालिका",
+        "NapaGapaEN": "Sigas",
+        "DistrictId": "74"
+    },
+    {
+        "NapaGapaId": "752",
+        "NapaGapaNE": "सुर्नया गाउँपालिका",
+        "NapaGapaEN": "Surnaya",
+        "DistrictId": "74"
+    },
+    {
+        "NapaGapaId": "753",
+        "NapaGapaNE": "अपिहिमाल गाउँपालिका",
+        "NapaGapaEN": "Apihimal",
+        "DistrictId": "75"
+    },
+    {
+        "NapaGapaId": "754",
+        "NapaGapaNE": "व्यास नगरपालिका",
+        "NapaGapaEN": "Byas",
+        "DistrictId": "75"
+    },
+    {
+        "NapaGapaId": "755",
+        "NapaGapaNE": "दुहुँ गाउँपालिका",
+        "NapaGapaEN": "Dunhu",
+        "DistrictId": "75"
+    },
+    {
+        "NapaGapaId": "756",
+        "NapaGapaNE": "लेकम गाउँपालिका",
+        "NapaGapaEN": "Lekam",
+        "DistrictId": "75"
+    },
+    {
+        "NapaGapaId": "757",
+        "NapaGapaNE": "माहाकाली नगरपालिका",
+        "NapaGapaEN": "Mahakali",
+        "DistrictId": "75"
+    },
+    {
+        "NapaGapaId": "758",
+        "NapaGapaNE": "मालिकार्जुन गाउँपालिका",
+        "NapaGapaEN": "Malikaarjun",
+        "DistrictId": "75"
+    },
+    {
+        "NapaGapaId": "759",
+        "NapaGapaNE": "मार्मा गाउँपालिका",
+        "NapaGapaEN": "Marma",
+        "DistrictId": "75"
+    },
+    {
+        "NapaGapaId": "760",
+        "NapaGapaNE": "नौगाड गाउँपालिका",
+        "NapaGapaEN": "Naugad",
+        "DistrictId": "75"
+    },
+    {
+        "NapaGapaId": "761",
+        "NapaGapaNE": "शैल्यशिखर नगरपालिका",
+        "NapaGapaEN": "Shailyashikhar",
+        "DistrictId": "75"
+    },
+    {
+        "NapaGapaId": "762",
+        "NapaGapaNE": "विनयी त्रिवेणी गाउँपालिका",
+        "NapaGapaEN": "Binayee Tribeni",
+        "DistrictId": "76"
+    },
+    {
+        "NapaGapaId": "763",
+        "NapaGapaNE": "बुलिङटार गाउँपालिका",
+        "NapaGapaEN": "Bulingtar",
+        "DistrictId": "76"
+    },
+    {
+        "NapaGapaId": "764",
+        "NapaGapaNE": "बुङदीकाली गाउँपालिका",
+        "NapaGapaEN": "Bungdikali",
+        "DistrictId": "76"
+    },
+    {
+        "NapaGapaId": "765",
+        "NapaGapaNE": "देवचुली नगरपालिका",
+        "NapaGapaEN": "Devchuli",
+        "DistrictId": "76"
+    },
+    {
+        "NapaGapaId": "766",
+        "NapaGapaNE": "गैडाकोट नगरपालिका",
+        "NapaGapaEN": "Gaidakot",
+        "DistrictId": "76"
+    },
+    {
+        "NapaGapaId": "767",
+        "NapaGapaNE": "हुप्सेकोट गाउँपालिका",
+        "NapaGapaEN": "Hupsekot",
+        "DistrictId": "76"
+    },
+    {
+        "NapaGapaId": "768",
+        "NapaGapaNE": "कावासोती नगरपालिका",
+        "NapaGapaEN": "Kawasoti",
+        "DistrictId": "76"
+    },
+    {
+        "NapaGapaId": "769",
+        "NapaGapaNE": "मध्यविन्दु नगरपालिका",
+        "NapaGapaEN": "Madhyabindu",
+        "DistrictId": "76"
+    },
+    {
+        "NapaGapaId": "770",
+        "NapaGapaNE": null,
+        "NapaGapaEN": "Chitawan National Park",
+        "DistrictId": "76"
+    },
+    {
+        "NapaGapaId": "771",
+        "NapaGapaNE": "भूमे गाउँपालिका",
+        "NapaGapaEN": "Bhume",
+        "DistrictId": "77"
+    },
+    {
+        "NapaGapaId": "772",
+        "NapaGapaNE": "पुथा उत्तरगंगा गाउँपालिका",
+        "NapaGapaEN": "Putha Uttarganga",
+        "DistrictId": "77"
+    },
+    {
+        "NapaGapaId": "773",
+        "NapaGapaNE": "सिस्ने गाउँपालिका",
+        "NapaGapaEN": "Sisne",
+        "DistrictId": "77"
+    },
+    {
+        "NapaGapaId": "774",
+        "NapaGapaNE": null,
+        "NapaGapaEN": "Dhorpatan Hunting Reserve",
+        "DistrictId": "77"
+    }
+]

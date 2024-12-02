@@ -1,0 +1,37 @@
+[
+    {
+        "ProvinceId": "1",
+        "ProvinceNameNP": "प्रदेश नं १",
+        "ProvinceName": "Province 1"
+    },
+    {
+        "ProvinceId": "2",
+        "ProvinceNameNP": "प्रदेश नं २",
+        "ProvinceName": "Province 2"
+    },
+    {
+        "ProvinceId": "3",
+        "ProvinceNameNP": "वागमती प्रदेश",
+        "ProvinceName": "Province 3"
+    },
+    {
+        "ProvinceId": "4",
+        "ProvinceNameNP": "गण्डकी प्रदेश",
+        "ProvinceName": "Province 4"
+    },
+    {
+        "ProvinceId": "5",
+        "ProvinceNameNP": "लुम्बिनी प्रदेश",
+        "ProvinceName": "Province 5"
+    },
+    {
+        "ProvinceId": "6",
+        "ProvinceNameNP": "कर्णाली प्रदेश",
+        "ProvinceName": "Province 6"
+    },
+    {
+        "ProvinceId": "7",
+        "ProvinceNameNP": "सुदूरपश्चिम प्रदेश",
+        "ProvinceName": "Province 7"
+    }
+]
