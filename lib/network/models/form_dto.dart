@@ -15,6 +15,7 @@ class FormDTO extends Equatable {
     required this.DataCollectionFormSubmissionURL,
     this.formFields,
     required this.FormType,
+    this.ProjectListFetchURL,
   });
 
   final String DataCollectionFormId;
@@ -24,6 +25,7 @@ class FormDTO extends Equatable {
   // final String DataCollectionFormHtlm;
   final String DataCollectionFormSubmissionURL;
   List<FormFieldDTO>? formFields;
+  final String? ProjectListFetchURL;
 
   @override
   List<Object?> get props => [
