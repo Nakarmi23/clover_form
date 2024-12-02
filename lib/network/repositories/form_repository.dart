@@ -29,12 +29,15 @@ class FormRepository {
           var encodedString =
               formDTO.DataCollectionFormFields.replaceAll('\\', '');
 
-          List<dynamic> jsonList = json.decode(encodedString);
-          List<FormModelField> formFieldDTO = jsonList.map((json) {
-            var formFieldDto =
-                FormFieldDTO.fromJson(json as Map<String, dynamic>);
-            return FormModelField.fromDTO(formFieldDto);
-          }).toList();
+          List<dynamic> jsonList =
+              encodedString == "0" ? [] : json.decode(encodedString);
+          List<FormModelField> formFieldDTO = encodedString == "0"
+              ? []
+              : jsonList.map((json) {
+                  var formFieldDto =
+                      FormFieldDTO.fromJson(json as Map<String, dynamic>);
+                  return FormModelField.fromDTO(formFieldDto);
+                }).toList();
 
           return FormModel.fromDTO(formDTO, formFieldDTO);
         }
@@ -81,7 +84,8 @@ class FormRepository {
       List<FormModelField> data = [];
       for (var entity in list) {
         if (entity.id?.split(',').last != null) {
-          var optionEntities = await getFormOptionsDb(entity.id!.split(',').last);
+          var optionEntities =
+              await getFormOptionsDb(entity.id!.split(',').last);
           data.add(FormModelField.fromEntity(entity, optionEntities));
         } else {
           data.add(FormModelField.fromEntity(entity, null));
@@ -251,13 +255,12 @@ class FormRepository {
     }
   }
 
-
-  Future<void> updateFormTitle(int formId,String title) async {
+  Future<void> updateFormTitle(int formId, String title) async {
     final database = await getDatabase();
     final formDao = database.savedFormDao;
 
     try {
-      await formDao.updateProjectName(formId,title);
+      await formDao.updateProjectName(formId, title);
     } catch (e) {
       throw Exception("Error updating form and form fields from database");
     } finally {

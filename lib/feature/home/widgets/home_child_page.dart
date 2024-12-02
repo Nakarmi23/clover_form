@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_slidable/flutter_slidable.dart';
 
 class HomeChildPage extends StatefulWidget {
-  const HomeChildPage({Key? key, required this.forms}) : super(key: key);
+  const HomeChildPage({super.key, required this.forms});
 
   final List<FormModel> forms;
 
@@ -75,7 +75,7 @@ class HomeChildState extends State<HomeChildPage> {
       },
       separatorBuilder: (context, index) =>
           const Divider(height: 1, color: Colors.white),
-      itemCount: widget.forms.length,
+      itemCount: widget.forms.where((form) => form.FormType != '3').length,
     );
   }
 }

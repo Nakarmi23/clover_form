@@ -10,11 +10,15 @@ class FormModel extends Equatable {
     this.DataCollectionFormFields,
     // required this.DataCollectionFormHtlm,
     required this.DataCollectionFormSubmissionURL,
+    required this.FormType,
+    this.ProjectListFetchURL,
   });
 
   final String DataCollectionFormId;
   final String DataCollectionFormName;
   List<FormModelField>? DataCollectionFormFields;
+  final String FormType;
+  final String? ProjectListFetchURL;
 
   // final String DataCollectionFormHtlm;
 
@@ -22,17 +26,20 @@ class FormModel extends Equatable {
 
   factory FormModel.fromDTO(FormDTO form, List<FormModelField>? formField) =>
       FormModel(
-        DataCollectionFormId: form.DataCollectionFormId,
-        DataCollectionFormName: form.DataCollectionFormName,
-        DataCollectionFormFields: formField,
-        // DataCollectionFormHtlm: form.DataCollectionFormHtlm,
-        DataCollectionFormSubmissionURL: form.DataCollectionFormSubmissionURL,
-      );
+          DataCollectionFormId: form.DataCollectionFormId,
+          DataCollectionFormName: form.DataCollectionFormName,
+          DataCollectionFormFields: formField,
+          // DataCollectionFormHtlm: form.DataCollectionFormHtlm,
+          DataCollectionFormSubmissionURL: form.DataCollectionFormSubmissionURL,
+          FormType: form.FormType,
+          ProjectListFetchURL: form.ProjectListFetchURL);
 
   factory FormModel.fromEntity(FormEntity entity) => FormModel(
         DataCollectionFormId: entity.DataCollectionFormId,
         DataCollectionFormName: entity.DataCollectionFormName,
         DataCollectionFormSubmissionURL: entity.DataCollectionFormSubmissionURL,
+        FormType: entity.FormType,
+        ProjectListFetchURL: entity.ProjectListFetchURL,
       );
 
   @override
